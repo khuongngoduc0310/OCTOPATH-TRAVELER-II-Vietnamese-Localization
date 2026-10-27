@@ -1,0 +1,8 @@
+﻿Path,Key,Source,Translation
+Export 0 (GameTextItemInfo_EN : DataTable)::Rows::ITEM_000::Name,,ITEM_000,ITEM_000
+Export 0 (GameTextItemInfo_EN : DataTable)::Rows::ITEM_000::Singular,,the,quả
+Export 0 (GameTextItemInfo_EN : DataTable)::Rows::ITEM_000::SingularIndefinite,,a,một quả
+Export 0 (GameTextItemInfo_EN : DataTable)::Rows::ITEM_000::SingularName,,apple_en,táo
+Export 0 (GameTextItemInfo_EN : DataTable)::Rows::ITEM_000::Plural,,the,các quả
+Export 0 (GameTextItemInfo_EN : DataTable)::Rows::ITEM_000::PluralIndefinite,,some,một vài quả
+Export 0 (GameTextItemInfo_EN : DataTable)::Rows::ITEM_000::PluralName,,apples,táo

@@ -1,0 +1,85 @@
+﻿Path,Key,Source,Translation
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_000::Name,,PLAYER_000,PLAYER_000
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_000::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_000::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_000::SingularName,,men_en,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_000::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_000::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_000::PluralName,,men,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_001::Name,,PLAYER_001,PLAYER_001
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_001::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_001::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_001::SingularName,,women_en,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_001::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_001::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_001::PluralName,,women,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_002::Name,,PLAYER_002,PLAYER_002
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_002::Singular,,the,con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_002::SingularIndefinite,,a,một con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_002::SingularName,,slime,slime
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_002::Plural,,the,các con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_002::PluralIndefinite,,some,một vài con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::PLAYER_002::PluralName,,slimes,slime
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_000::Name,,Enemy_000,Enemy_000
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_000::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_000::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_000::SingularName,,men,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_000::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_000::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_000::PluralName,,men,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_001::Name,,Enemy_001,Enemy_001
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_001::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_001::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_001::SingularName,,women,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_001::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_001::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_001::PluralName,,women,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_002::Name,,Enemy_002,Enemy_002
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_002::Singular,,the,con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_002::SingularIndefinite,,a,một con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_002::SingularName,,slime,slime
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_002::Plural,,the,các con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_002::PluralIndefinite,,some,một vài con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::Enemy_002::PluralName,,slimes,slime
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_000::Name,,NPC_000,NPC_000
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_000::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_000::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_000::SingularName,,men,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_000::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_000::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_000::PluralName,,men,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_001::Name,,NPC_001,NPC_001
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_001::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_001::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_001::SingularName,,women,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_001::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_001::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_001::PluralName,,women,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_002::Name,,NPC_002,NPC_002
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_002::Singular,,the,con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_002::SingularIndefinite,,a,một con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_002::SingularName,,slime,slime
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_002::Plural,,the,các con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_002::PluralIndefinite,,some,một vài con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::NPC_002::PluralName,,slimes,slime
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_000::Name,,BOSS_000,BOSS_000
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_000::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_000::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_000::SingularName,,men,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_000::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_000::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_000::PluralName,,men,đàn ông
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_001::Name,,BOSS_001,BOSS_001
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_001::Singular,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_001::SingularIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_001::SingularName,,women,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_001::Plural,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_001::PluralIndefinite,,None,None
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_001::PluralName,,women,phụ nữ
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_002::Name,,BOSS_002,BOSS_002
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_002::Singular,,the,con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_002::SingularIndefinite,,a,một con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_002::SingularName,,slime,slime
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_002::Plural,,the,các con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_002::PluralIndefinite,,some,một vài con
+Export 0 (GameTextCharacterInfo_EN : DataTable)::Rows::BOSS_002::PluralName,,slimes,slime

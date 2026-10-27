@@ -1,0 +1,4 @@
+﻿type,key,source,old,new,reason
+equipment,GameTextEN::TX_NA_ITM_EQP_SWD_230_Text,Bastard Sword,Trường Kiếm Biến Thể,Kiếm Bán Thủ,"Biên tập tên theo phong cách RPG: cô đọng, tự nhiên và giữ đúng loại/kết cấu nghĩa; đối chiếu mô tả hoặc loại trang bị."
+equipment,GameTextEN::TX_NA_ITM_EQP_HLM_370_Text,Mechanical Top Hat,Mũ Cao Cơ Khí,Mũ Ống Cơ Khí,"Biên tập tên theo phong cách RPG: cô đọng, tự nhiên và giữ đúng loại/kết cấu nghĩa; đối chiếu mô tả hoặc loại trang bị."
+equipment,GameTextEN::TX_NA_ITM_EQP_ACS_670_Text,Octopuff Pot,Bình Dẫn Octopuff,Bình Nhử Octopuff,"Biên tập tên theo phong cách RPG: cô đọng, tự nhiên và giữ đúng loại/kết cấu nghĩa; đối chiếu mô tả hoặc loại trang bị."

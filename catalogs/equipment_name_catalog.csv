@@ -1,0 +1,617 @@
+﻿Group,Slot,English,Vietnamese,Japanese,EnglishDescription,VietnameseDescription,JapaneseDescription,GameTextKey,EquipmentCode,EquipmentCategory,HP,SP,POT,ATK,DEF,MATK,MDEF,ACC,EVA,CON,AGI,BuyPrice,SellPrice,EquipmentTextureLabel
+Cung,Cung,,,,,,,GameTextEN::TX_NA_ITM_EQP_BOW_330_Text,ITM_EQP_BOW_330,BOW,0,0,0,24,0,0,0,-6,0,0,0,2000,100,BOW_8320
+Cung,Cung,,,,,,,GameTextEN::TX_NA_ITM_EQP_BOW_430_Text,ITM_EQP_BOW_430,BOW,0,0,0,69,0,0,0,-16,0,0,0,10000,500,BOW_8320
+Cung,Cung,,,,,,,GameTextEN::TX_NA_ITM_EQP_BOW_440_Text,ITM_EQP_BOW_440,BOW,0,0,0,200,0,0,0,-55,0,0,0,35000,1750,BOW_8320
+Cung,Cung,,,,,,,GameTextEN::TX_NA_ITM_EQP_BOW_450_Text,ITM_EQP_BOW_450,BOW,0,0,0,314,0,0,0,-86,0,0,0,55000,2750,BOW_8320
+Cung,Cung,,,,,,,GameTextEN::TX_NA_ITM_EQP_BOW_460_Text,ITM_EQP_BOW_460,BOW,0,0,0,67,0,0,0,0,-14,0,0,10000,500,BOW_8318
+Cung,Cung,,,,,,,GameTextEN::TX_NA_ITM_EQP_BOW_470_Text,ITM_EQP_BOW_470,BOW,0,0,0,202,0,0,0,0,-57,0,0,35000,1750,BOW_8318
+Cung,Cung,,,,,,,GameTextEN::TX_NA_ITM_EQP_BOW_480_Text,ITM_EQP_BOW_480,BOW,0,0,0,204,0,0,0,0,0,-59,0,35000,1750,BOW_8318
+Cung,Cung,Absolute Zero Bow,Cung Hàn Cực,絶対零度の弓,Equip effect: Raises potency of ice-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Băng.,装備効果：氷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_BOW_240_Text,ITM_EQP_BOW_240,BOW,0,0,0,187,0,158,0,0,0,0,0,36000,7200,BOW_8313
+Cung,Cung,Ancient Bow,Cung Cổ Đại,古代の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_400_Text,ITM_EQP_BOW_400,BOW,0,0,0,286,0,0,0,0,0,0,87,55000,11000,BOW_8300
+Cung,Cung,Art of Archery,Bí Thuật Cung Thuật,アートオブボウ,,,,GameTextEN::TX_NA_ITM_EQP_BOW_180_Text,ITM_EQP_BOW_180,BOW,0,0,0,297,0,0,0,115,0,0,0,60000,12000,BOW_8307
+Cung,Cung,Assault Bow,Cung Xung Kích,アサルトボウ,,,,GameTextEN::TX_NA_ITM_EQP_BOW_090_Text,ITM_EQP_BOW_090,BOW,0,0,0,58,0,0,0,14,0,0,0,8500,1700,BOW_8307
+Cung,Cung,Battle Bow,Chiến Cung,バトルボウ,,,,GameTextEN::TX_NA_ITM_EQP_BOW_410_Text,ITM_EQP_BOW_410,BOW,0,0,0,114,0,0,0,34,0,0,0,21000,4200,BOW_8307
+Cung,Cung,Battle-Tested Bow,Cung Thử Lửa,歴戦の弓,Attack effect: Slim chance to reduce target's physical defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Vật Lý của mục tiêu.,攻撃効果：まれに対象の物防を減少,GameTextEN::TX_NA_ITM_EQP_BOW_280_Text,ITM_EQP_BOW_280,BOW,0,0,0,390,0,0,0,0,0,120,0,100000,20000,BOW_8303
+Cung,Cung,Beastling's Bow,Cung Người Thú,獣人の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_050_Text,ITM_EQP_BOW_050,BOW,0,0,0,20,0,0,0,0,4,0,0,2200,440,BOW_8318
+Cung,Cung,Befuddling Greatbow,Đại Cung Nhiễu Tâm,混沌の大弓,Attack effect: Slim chance to confuse target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu lú lẫn.,攻撃効果：まれに対象へ混乱を付与,GameTextEN::TX_NA_ITM_EQP_BOW_350_Text,ITM_EQP_BOW_350,BOW,0,0,0,337,0,0,0,0,105,0,0,65000,13000,BOW_8309
+Cung,Cung,Black Bow,Cung Đen,黒の狩猟弓,Attack effect: Slim chance to instantly kill target.,Hiệu ứng tấn công: Có xác suất nhỏ hạ gục mục tiêu ngay lập tức.,攻撃効果：まれに対象を即死させる,GameTextEN::TX_NA_ITM_EQP_BOW_490_Text,ITM_EQP_BOW_490,BOW,0,0,0,281,0,0,0,0,0,145,0,60000,12000,BOW_8310
+Cung,Cung,Bow,Cung,ボウ,,,,GameTextEN::TX_NA_ITM_EQP_BOW_020_Text,ITM_EQP_BOW_020,BOW,0,0,0,5,0,0,0,0,0,0,0,200,40,BOW_8300
+Cung,Cung,Bow of Carnage,Cung Tàn Sát,修羅の剛弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_290_Text,ITM_EQP_BOW_290,BOW,0,0,0,313,0,0,0,0,0,70,70,80000,16000,BOW_8317
+Cung,Cung,Composite Bow,Cung Ghép,コンポジットボウ,,,,GameTextEN::TX_NA_ITM_EQP_BOW_060_Text,ITM_EQP_BOW_060,BOW,0,0,0,22,0,0,0,5,0,0,0,2200,440,BOW_8307
+Cung,Cung,Cupid's Bow,Cung Thần Cupid,キューピットの弓,Attack effect: Slim chance to confuse target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu lú lẫn.,攻撃効果：まれに対象へ混乱を付与,GameTextEN::TX_NA_ITM_EQP_BOW_320_Text,ITM_EQP_BOW_320,BOW,0,0,0,104,0,0,0,32,0,0,0,20000,4000,BOW_8319
+Cung,Cung,Engagement Bow,Cung Hôn Ước,エンゲージメントボウ,Attack effect: Slim chance to reduce target's evasion.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Né Tránh của mục tiêu.,攻撃効果：まれに対象の回避を減少,GameTextEN::TX_NA_ITM_EQP_BOW_420_Text,ITM_EQP_BOW_420,BOW,0,0,0,197,0,0,0,0,0,0,64,36000,7200,BOW_8305
+Cung,Cung,Evening Mist,Sương Mù Chạng Vạng,夕霧の魔弓,Attack effect: Slim chance to blind target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu bị mù.,攻撃効果：まれに対象へ暗闇を付与,GameTextEN::TX_NA_ITM_EQP_BOW_390_Text,ITM_EQP_BOW_390,BOW,0,0,0,293,0,325,0,0,0,0,0,65000,13000,BOW_8306
+Cung,Cung,Exorcising Bow,Cung Trừ Tà,破魔の弓,Attack effect: Slim chance to reduce target's elemental attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属攻を減少,GameTextEN::TX_NA_ITM_EQP_BOW_360_Text,ITM_EQP_BOW_360,BOW,0,0,0,339,0,0,0,0,0,0,110,65000,13000,BOW_8314
+Cung,Cung,Expert's Bow,Cung Thiện Xạ,達人の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_160_Text,ITM_EQP_BOW_160,BOW,0,0,0,183,0,0,0,0,0,0,57,35000,7000,BOW_8300
+Cung,Cung,Floyd's Neo Bow,Tân Cung Floyd,改良型フロイドボウ,Attack effect: Slim chance to reduce target's evasion.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Né Tránh của mục tiêu.,攻撃効果：まれに対象の回避を減少,GameTextEN::TX_NA_ITM_EQP_BOW_380_Text,ITM_EQP_BOW_380,BOW,0,0,0,338,0,0,0,120,0,0,0,65000,13000,BOW_8312
+Cung,Cung,Forbidden Bow,Cung Cấm,禁断の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_270_Text,ITM_EQP_BOW_270,BOW,0,0,0,315,0,0,0,0,-120,70,0,80000,16000,BOW_8315
+Cung,Cung,Giant Bow,Cung Khổng Lồ,大きな弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_370_Text,ITM_EQP_BOW_370,BOW,0,0,0,24,0,0,0,0,0,6,0,2500,500,BOW_8302
+Cung,Cung,Guard's Greatbow,Đại Cung Lính Gác,衛兵の大弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_080_Text,ITM_EQP_BOW_080,BOW,0,0,0,53,0,0,0,0,0,11,0,6000,1200,BOW_8302
+Cung,Cung,Handmade Bow,Cung Tự Chế,お手製の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_030_Text,ITM_EQP_BOW_030,BOW,0,0,0,5,0,0,0,0,0,0,0,200,40,BOW_8300
+Cung,Cung,Hunter's Bow,Cung Thợ Săn,狩王の弓,Attack effect: Slim chance to reduce a random attribute.,Hiệu ứng tấn công: Có xác suất nhỏ giảm ngẫu nhiên một chỉ số của mục tiêu.,"攻撃効果：まれに対象の
+ランダムなステータスを減少",GameTextEN::TX_NA_ITM_EQP_BOW_990_Text,ITM_EQP_BOW_990,BOW,0,0,0,312,0,0,0,0,0,0,0,150000,100000,BOW_8316
+Cung,Cung,King of Beasts,Bá Chủ Muôn Thú,百獣王の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_190_Text,ITM_EQP_BOW_190,BOW,0,0,0,282,0,0,0,0,90,0,0,53000,10600,BOW_8318
+Cung,Cung,Knight's Greatbow,Đại Cung Hiệp Sĩ,騎士の大弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_130_Text,ITM_EQP_BOW_130,BOW,0,0,0,109,0,0,0,0,0,34,0,21000,4200,BOW_8302
+Cung,Cung,Leviathan Greatbow,Đại Cung Leviathan,海獣の大弓,Attack effect: Slim chance to reduce target's physical attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Vật Lý của mục tiêu.,攻撃効果：まれに対象の物攻を減少,GameTextEN::TX_NA_ITM_EQP_BOW_300_Text,ITM_EQP_BOW_300,BOW,0,0,0,296,0,0,0,0,0,89,0,60000,12000,BOW_8308
+Cung,Cung,Lost Tribe's Bow,Cung Tộc Thất Lạc,忘れられた種族の弓,Attack effect: Slim chance to poison target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu trúng độc.,攻撃効果：まれに対象へ毒を付与,GameTextEN::TX_NA_ITM_EQP_BOW_500_Text,ITM_EQP_BOW_500,BOW,0,0,0,371,0,0,0,-103,0,0,0,65000,13000,BOW_8320
+Cung,Cung,Makeshift Bow,Cung Chắp Vá,ただの弓,"It's not much of a bow,
+but it'll have to do.","Cung này chẳng ra gì,
+nhưng đành dùng tạm vậy.",なんの変哲も無い弓,GameTextEN::TX_NA_ITM_EQP_BOW_010_Text,ITM_EQP_BOW_010,BOW,0,0,0,0,0,0,0,0,0,0,0,0,0,BOW_8300
+Cung,Cung,Marksman's Bow,Cung Thiện Xạ,名手の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_140_Text,ITM_EQP_BOW_140,BOW,0,0,0,118,0,0,0,0,0,0,35,24000,4800,BOW_8300
+Cung,Cung,Master's Greatbow,Đại Cung Tuyệt Nghệ,巨匠の大弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_210_Text,ITM_EQP_BOW_210,BOW,0,0,0,288,0,0,0,0,0,88,0,55000,11000,BOW_8310
+Cung,Cung,Mechanical Bow,Cung Cơ Khí,メカニカルボウ,Attack effect: Slim chance to reduce target's accuracy.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Chính Xác của mục tiêu.,攻撃効果：まれに対象の命中を減少,GameTextEN::TX_NA_ITM_EQP_BOW_260_Text,ITM_EQP_BOW_260,BOW,0,0,0,294,0,0,0,93,0,0,0,57000,11400,BOW_8311
+Cung,Cung,Mirage Bow,Cung Ảo Ảnh,ミラージュボウ,Attack effect: Slim chance to reduce target's accuracy.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Chính Xác của mục tiêu.,攻撃効果：まれに対象の命中を減少,GameTextEN::TX_NA_ITM_EQP_BOW_230_Text,ITM_EQP_BOW_230,BOW,0,0,0,63,0,45,0,0,0,0,0,10000,2000,BOW_8304
+Cung,Cung,Protector's Bow,Cung Hộ Thân,守り人の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_170_Text,ITM_EQP_BOW_170,BOW,0,0,0,310,0,0,0,0,96,0,0,60000,12000,BOW_8318
+Cung,Cung,Raging Beast,Thú Cuồng Nộ,猛獣の弓,Attack effect: Slim chance to reduce target's evasion.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Né Tránh của mục tiêu.,攻撃効果：まれに対象の回避を減少,GameTextEN::TX_NA_ITM_EQP_BOW_200_Text,ITM_EQP_BOW_200,BOW,0,0,0,179,0,0,0,0,56,0,0,35000,7000,BOW_8318
+Cung,Cung,Sailor's Bow,Cung Thủy Thủ,船乗りの弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_100_Text,ITM_EQP_BOW_100,BOW,0,0,0,60,0,0,0,0,0,0,15,9000,1800,BOW_8300
+Cung,Cung,Shadow Bow,Cung Bóng Tối,シャドウボウ,Attack effect: Slim chance to blind target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu bị mù.,攻撃効果：まれに対象へ暗闇を付与,GameTextEN::TX_NA_ITM_EQP_BOW_220_Text,ITM_EQP_BOW_220,BOW,0,0,0,55,0,55,0,0,0,0,0,9000,1800,BOW_8301
+Cung,Cung,Shortbow,Cung Ngắn,短い弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_040_Text,ITM_EQP_BOW_040,BOW,0,0,0,11,0,0,0,0,0,0,0,800,160,BOW_8300
+Cung,Cung,Sniper's Bow,Cung Bắn Tỉa,スナイパーボウ,,,,GameTextEN::TX_NA_ITM_EQP_BOW_150_Text,ITM_EQP_BOW_150,BOW,0,0,0,186,0,0,0,56,0,0,0,36000,7200,BOW_8307
+Cung,Cung,Soldier's Bow,Cung Lính,戦士の大弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_120_Text,ITM_EQP_BOW_120,BOW,0,0,0,67,0,0,0,0,0,18,0,11000,2200,BOW_8310
+Cung,Cung,Steel Bow,Cung Thép,スティールボウ,,,,GameTextEN::TX_NA_ITM_EQP_BOW_110_Text,ITM_EQP_BOW_110,BOW,0,0,0,80,0,0,0,22,0,0,0,15000,3000,BOW_8307
+Cung,Cung,Tenacious Bow,Cung Bất Khuất,執念の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_340_Text,ITM_EQP_BOW_340,BOW,0,0,0,57,0,0,0,0,0,20,0,9000,1800,BOW_8300
+Cung,Cung,Tornado Bow,Cung Lốc Xoáy,トルネードボウ,Equip effect: Raises potency of wind-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Gió.,装備効果：風属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_BOW_250_Text,ITM_EQP_BOW_250,BOW,0,0,0,295,0,0,0,0,0,0,90,57000,11400,BOW_8305
+Cung,Cung,Traveler's Bow,Cung Lữ Hành,旅人の弓,,,,GameTextEN::TX_NA_ITM_EQP_BOW_070_Text,ITM_EQP_BOW_070,BOW,0,0,0,47,0,0,0,0,0,0,13,7000,1400,BOW_8300
+Dao găm,Dao găm,,,,,,,GameTextEN::TX_NA_ITM_EQP_DGR_330_Text,ITM_EQP_DGR_330,DAGGER,0,0,0,24,0,0,0,0,0,0,-6,2000,100,DGR_8518
+Dao găm,Dao găm,,,,,,,GameTextEN::TX_NA_ITM_EQP_DGR_450_Text,ITM_EQP_DGR_450,DAGGER,0,0,0,68,0,0,0,0,0,0,-16,10000,500,DGR_8518
+Dao găm,Dao găm,,,,,,,GameTextEN::TX_NA_ITM_EQP_DGR_460_Text,ITM_EQP_DGR_460,DAGGER,0,0,0,194,0,0,0,0,0,0,-55,35000,1750,DGR_8518
+Dao găm,Dao găm,,,,,,,GameTextEN::TX_NA_ITM_EQP_DGR_470_Text,ITM_EQP_DGR_470,DAGGER,0,0,0,306,0,0,0,0,0,0,-86,55000,2750,DGR_8518
+Dao găm,Dao găm,,,,,,,GameTextEN::TX_NA_ITM_EQP_DGR_480_Text,ITM_EQP_DGR_480,DAGGER,0,0,0,122,0,0,0,0,-35,0,0,22000,1100,DGR_8512
+Dao găm,Dao găm,,,,,,,GameTextEN::TX_NA_ITM_EQP_DGR_490_Text,ITM_EQP_DGR_490,DAGGER,0,0,0,67,0,0,0,0,0,-15,0,10000,500,DGR_8506
+Dao găm,Dao găm,,,,,,,GameTextEN::TX_NA_ITM_EQP_DGR_500_Text,ITM_EQP_DGR_500,DAGGER,0,0,0,196,-56,0,0,0,0,0,0,35000,1750,DGR_8517
+Dao găm,Dao găm,Assassin's Dagger,Dao Găm Sát Thủ,アサシンダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_160_Text,ITM_EQP_DGR_160,DAGGER,0,0,0,278,0,0,0,0,0,0,90,54000,10800,DGR_8508
+Dao găm,Dao găm,Battle-Tested Dagger,Dao Găm Thử Lửa,歴戦の短剣,Attack effect: Slim chance to reduce target's accuracy.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Chính Xác của mục tiêu.,攻撃効果：まれに対象の命中を減少,GameTextEN::TX_NA_ITM_EQP_DGR_280_Text,ITM_EQP_DGR_280,DAGGER,0,0,0,380,0,0,0,0,120,0,0,100000,20000,DGR_8503
+Dao găm,Dao găm,Black Dagger,Dao Găm Đen,ブラックダガー,Attack effect: Slim chance to blind target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu bị mù.,攻撃効果：まれに対象へ暗闇を付与,GameTextEN::TX_NA_ITM_EQP_DGR_220_Text,ITM_EQP_DGR_220,DAGGER,0,0,0,118,0,0,0,0,0,0,55,35000,7000,DGR_8509
+Dao găm,Dao găm,Bloodstained Knife,Dao Đẫm Máu,血染めナイフ,Attack effect: Recover HP equivalent to 25% of the damage dealt.,Hiệu ứng tấn công: Hồi HP bằng 25% sát thương gây ra.,"攻撃効果：与えたダメージの２５％の
+HPを回復する",GameTextEN::TX_NA_ITM_EQP_DGR_250_Text,ITM_EQP_DGR_250,DAGGER,0,0,0,290,0,0,0,0,0,0,0,57000,11400,DGR_8507
+Dao găm,Dao găm,Breaker's Blade,Đao Phá Giáp,アートオブブレイカー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_410_Text,ITM_EQP_DGR_410,DAGGER,0,0,0,289,0,0,0,0,0,115,0,60000,12000,DGR_8505
+Dao găm,Dao găm,Bronze Knife,Dao Đồng,ブロンズナイフ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_050_Text,ITM_EQP_DGR_050,DAGGER,0,0,0,22,0,0,0,0,5,0,0,2400,480,DGR_8506
+Dao găm,Dao găm,Champion Seeker,Truy Săn Quán Quân,闘士のシーカ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_120_Text,ITM_EQP_DGR_120,DAGGER,0,0,0,180,0,0,0,58,0,0,0,35000,7000,DGR_8506
+Dao găm,Dao găm,Crystal Dagger,Dao Găm Pha Lê,鉱石のダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_090_Text,ITM_EQP_DGR_090,DAGGER,0,0,0,72,0,0,0,-50,0,0,0,10000,2000,DGR_8510
+Dao găm,Dao găm,Dagger,Dao Găm,ダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_040_Text,ITM_EQP_DGR_040,DAGGER,0,0,0,11,0,0,0,0,0,0,0,800,160,DGR_8500
+Dao găm,Dao găm,Dagger in the Rough,Dao Mộc,粗削りの原石のダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_420_Text,ITM_EQP_DGR_420,DAGGER,0,0,0,305,0,0,0,-65,0,-30,0,55000,11000,DGR_8510
+Dao găm,Dao găm,Dagger of Seclusion,Dao Cô Tịch,遁世の短剣,,,,GameTextEN::TX_NA_ITM_EQP_DGR_190_Text,ITM_EQP_DGR_190,DAGGER,0,0,0,279,0,0,0,0,88,0,0,55000,11000,DGR_8500
+Dao găm,Dao găm,Dancer's Blade,Kiếm Vũ Công,舞王の短剣,"Attack effect: Slim chance to afflict target with poison, blindness, confusion, or sleep.","Hiệu ứng tấn công: Có xác suất nhỏ gây độc, mù, lú lẫn hoặc trạng thái ngủ cho mục tiêu.","攻撃効果：まれに対象へ毒/暗闇
+混乱/睡眠のいずれかを付与する",GameTextEN::TX_NA_ITM_EQP_DGR_990_Text,ITM_EQP_DGR_990,DAGGER,0,0,0,300,0,0,0,0,0,0,0,150000,100000,DGR_8514
+Dao găm,Dao găm,Diamond Dagger,Dao Kim Cương,ダイヤモンドダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_170_Text,ITM_EQP_DGR_170,DAGGER,0,0,0,315,0,0,0,0,0,0,0,70000,14000,DGR_8511
+Dao găm,Dao găm,Doombreaker,Phá Diệt Đao,ドゥームズブレイカー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_150_Text,ITM_EQP_DGR_150,DAGGER,0,0,0,174,0,0,0,0,0,56,0,34000,6800,DGR_8505
+Dao găm,Dao găm,Drifting Dagger,Dao Găm Trôi Dạt,浮雲の短剣,,,,GameTextEN::TX_NA_ITM_EQP_DGR_320_Text,ITM_EQP_DGR_320,DAGGER,0,0,0,111,0,0,0,28,0,28,0,22000,4400,DGR_8517
+Dao găm,Dao găm,Falcon Knife,Dao Ưng,ファルコンナイフ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_080_Text,ITM_EQP_DGR_080,DAGGER,0,0,0,57,0,0,0,0,14,0,0,9000,1800,DGR_8500
+Dao găm,Dao găm,Forbidden Dagger,Dao Găm Cấm,禁断の短剣,,,,GameTextEN::TX_NA_ITM_EQP_DGR_270_Text,ITM_EQP_DGR_270,DAGGER,0,0,0,305,-120,295,0,0,0,0,0,80000,16000,DGR_8502
+Dao găm,Dao găm,Fruit Knife,Dao Cắt Trái Cây,くだものナイフ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_030_Text,ITM_EQP_DGR_030,DAGGER,0,0,0,4,0,0,0,0,0,0,0,200,40,DGR_8506
+Dao găm,Dao găm,Handbreaker,Phá Thủ Đao,ハンドブレイカー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_070_Text,ITM_EQP_DGR_070,DAGGER,0,0,0,52,0,0,0,0,0,13,0,9000,1800,DGR_8505
+Dao găm,Dao găm,Jade Dagger,Dao Găm Ngọc Bích,翠玉のナイフ,Attack effect: Slim chance to reduce target's physical attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Vật Lý của mục tiêu.,攻撃効果：まれに対象の物攻を減少,GameTextEN::TX_NA_ITM_EQP_DGR_370_Text,ITM_EQP_DGR_370,DAGGER,0,0,0,101,0,0,0,0,31,0,0,20000,4000,DGR_8501
+Dao găm,Dao găm,Kukri,Kukri,ククリ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_060_Text,ITM_EQP_DGR_060,DAGGER,0,0,0,46,0,0,0,11,0,0,0,7000,1400,DGR_8506
+Dao găm,Dao găm,Lockpick,Đoản Kiếm Móc Khóa,開錠ピック,Attack effect: Slim chance to reduce target's physical defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Vật Lý của mục tiêu.,攻撃効果：まれに対象の物防を減少,GameTextEN::TX_NA_ITM_EQP_DGR_440_Text,ITM_EQP_DGR_440,DAGGER,0,0,0,304,0,0,0,0,94,0,0,60000,12000,DGR_8509
+Dao găm,Dao găm,Lost Tribe's Dagger,Dao Tộc Thất Lạc,忘れられた種族の短剣,Attack effect: Slim chance to blind target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu bị mù.,攻撃効果：まれに対象へ暗闇を付与,GameTextEN::TX_NA_ITM_EQP_DGR_510_Text,ITM_EQP_DGR_510,DAGGER,0,0,0,362,0,0,0,0,0,0,-103,65000,13000,DGR_8518
+Dao găm,Dao găm,Magus Knife,Dao Pháp Sư,マギアナイフ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_350_Text,ITM_EQP_DGR_350,DAGGER,0,0,0,97,0,93,0,0,0,0,0,20000,4000,DGR_8504
+Dao găm,Dao găm,Makeshift Knife,Dao Chắp Vá,ただの短剣,"It's not much of a dagger,
+but it'll have to do.","Dao găm này chẳng ra gì,
+nhưng đành dùng tạm vậy.",なんの変哲も無い短剣,GameTextEN::TX_NA_ITM_EQP_DGR_010_Text,ITM_EQP_DGR_010,DAGGER,0,0,0,0,0,0,0,0,0,0,0,0,0,DGR_8500
+Dao găm,Dao găm,Marietta,Marietta,マリエッタ,Attack effect: Slim chance to instantly kill target.,Hiệu ứng tấn công: Có xác suất nhỏ hạ gục mục tiêu ngay lập tức.,攻撃効果：まれに対象を即死させる,GameTextEN::TX_NA_ITM_EQP_DGR_290_Text,ITM_EQP_DGR_290,DAGGER,0,0,0,179,0,0,0,0,56,0,0,35000,7000,DGR_8515
+Dao găm,Dao găm,Mooneater,Kẻ Nuốt Trăng,月喰みの短剣,Equip effect: Raises potency of fire- and wind-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Lửa và Gió.,装備効果：火/風属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_DGR_430_Text,ITM_EQP_DGR_430,DAGGER,0,0,0,285,0,349,0,0,0,0,0,65000,13000,DGR_8507
+Dao găm,Dao găm,Moonfang,Nanh Trăng,月牙のダガー,Equip effect: Raises potency of fire-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Lửa.,装備効果：火属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_DGR_390_Text,ITM_EQP_DGR_390,DAGGER,0,0,0,141,0,0,0,0,0,0,75,35000,7000,DGR_8504
+Dao găm,Dao găm,Mysterious Dagger,Dao Găm Bí Ẩn,神秘の短剣,Attack effect: Slim chance to reduce target's elemental defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属防を減少,GameTextEN::TX_NA_ITM_EQP_DGR_240_Text,ITM_EQP_DGR_240,DAGGER,0,0,0,266,0,266,0,0,0,0,0,57000,11400,DGR_8504
+Dao găm,Dao găm,Needle Dagger,Dao Găm Kim,ニードルダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_340_Text,ITM_EQP_DGR_340,DAGGER,0,0,0,25,0,0,0,0,0,0,6,2800,560,DGR_8508
+Dao găm,Dao găm,Obsidian Dagger,Hắc Diệu Đao,黒曜石のダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_140_Text,ITM_EQP_DGR_140,DAGGER,0,0,0,122,0,0,0,-60,0,0,0,22000,4400,DGR_8510
+Dao găm,Dao găm,Ornate Dagger,Dao Găm Chạm Trổ,絢爛な装飾の短剣,,,,GameTextEN::TX_NA_ITM_EQP_DGR_180_Text,ITM_EQP_DGR_180,DAGGER,0,0,0,281,0,0,0,91,0,0,0,55000,11000,DGR_8506
+Dao găm,Dao găm,Piercing Dagger,Dao Găm Xuyên Thấu,ピアシングダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_360_Text,ITM_EQP_DGR_360,DAGGER,0,0,0,176,0,0,0,0,0,0,55,35000,7000,DGR_8508
+Dao găm,Dao găm,Poison Dagger,Dao Găm Tẩm Độc,毒刃の短剣,Attack effect: Slim chance to poison target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu trúng độc.,攻撃効果：まれに対象へ毒を付与,GameTextEN::TX_NA_ITM_EQP_DGR_300_Text,ITM_EQP_DGR_300,DAGGER,0,0,0,162,0,0,0,0,0,58,0,36000,7200,DGR_8516
+Dao găm,Dao găm,Quartz Dagger,Dao Găm Thạch Anh,クォーツダガー,Attack effect: Slim chance to reduce target's elemental defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属防を減少,GameTextEN::TX_NA_ITM_EQP_DGR_200_Text,ITM_EQP_DGR_200,DAGGER,0,0,0,60,0,58,0,0,0,0,0,18000,3600,DGR_8511
+Dao găm,Dao găm,Ruinous Dagger,Dao Găm Hủy Diệt,破滅の凶刃,Attack effect: Slim chance to instantly kill target.,Hiệu ứng tấn công: Có xác suất nhỏ hạ gục mục tiêu ngay lập tức.,攻撃効果：まれに対象を即死させる,GameTextEN::TX_NA_ITM_EQP_DGR_260_Text,ITM_EQP_DGR_260,DAGGER,0,0,0,317,0,0,0,-75,0,0,0,57000,11400,DGR_8512
+Dao găm,Dao găm,Sharp Stone,Đá Sắc,鋭利な石,,,,GameTextEN::TX_NA_ITM_EQP_DGR_021_Text,ITM_EQP_DGR_021,DAGGER,0,0,0,3,0,0,0,0,0,0,0,200,40,DGR_8500_GST
+Dao găm,Dao găm,Sharp Stone,Đá Sắc,鋭利な石,,,,GameTextEN::TX_NA_ITM_EQP_DGR_021_Text,ITM_EQP_DGR_022,DAGGER,0,0,0,3,0,0,0,0,0,0,0,200,40,DGR_8500
+Dao găm,Dao găm,Silver-Plated Knife,Dao Mạ Bạc,銀メッキのナイフ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_400_Text,ITM_EQP_DGR_400,DAGGER,0,0,0,7,0,0,0,0,0,0,0,3500,500,DGR_8506
+Dao găm,Dao găm,Snakebite,Nọc Rắn,蛇の牙,,,,GameTextEN::TX_NA_ITM_EQP_DGR_020_GST_Text,ITM_EQP_DGR_020_GST,DAGGER,0,0,0,4,0,0,0,0,0,0,0,200,40,DGR_8500_GST
+Dao găm,Dao găm,Stealthy Knife,Dao Tàng Hình,ステルスナイフ,,,,GameTextEN::TX_NA_ITM_EQP_DGR_130_Text,ITM_EQP_DGR_130,DAGGER,0,0,0,117,0,0,0,0,37,0,0,23000,4600,DGR_8500
+Dao găm,Dao găm,Stinging Dagger,Độc Châm,スティングダガー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_110_Text,ITM_EQP_DGR_110,DAGGER,0,0,0,107,0,0,0,0,0,0,34,20000,4000,DGR_8508
+Dao găm,Dao găm,Swordbreaker,Đao Phá Kiếm,ソードブレイカー,,,,GameTextEN::TX_NA_ITM_EQP_DGR_100_Text,ITM_EQP_DGR_100,DAGGER,0,0,0,62,0,0,0,0,0,16,0,10000,2000,DGR_8505
+Dao găm,Dao găm,Thief's Dagger,Dao Găm Đạo Chích,盗賊の短刀,,,,GameTextEN::TX_NA_ITM_EQP_DGR_020_Text,ITM_EQP_DGR_020,DAGGER,0,0,0,6,0,0,0,0,0,0,0,200,40,DGR_8506
+Dao găm,Dao găm,Tonfa,Côn Nhị Khúc,トンファー,Equip effect: Slim chance to counterattack.,Hiệu ứng trang bị: Có xác suất nhỏ phản công.,装備効果：まれに反撃をする,GameTextEN::TX_NA_ITM_EQP_DGR_230_Text,ITM_EQP_DGR_230,DAGGER,0,0,0,329,0,0,0,102,0,0,0,65000,13000,DGR_8513
+Dao găm,Dao găm,Vengeful Knife,Dao Báo Thù,復讐の短剣,Attack effect: Slim chance to put target to sleep.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu rơi vào trạng thái ngủ.,攻撃効果：まれに対象へ睡眠を付与,GameTextEN::TX_NA_ITM_EQP_DGR_380_Text,ITM_EQP_DGR_380,DAGGER,0,0,0,325,0,0,0,0,0,0,109,65000,13000,DGR_8504
+Dao găm,Dao găm,Wind Whisperer,Phong Ngữ,風詠みのダガー,Equip effect: Raises potency of wind-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Gió.,装備効果：風属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_DGR_210_Text,ITM_EQP_DGR_210,DAGGER,0,0,0,172,0,163,0,0,0,0,0,36000,7200,DGR_8501
+Giáp nhẹ,Giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_AMR_580_Text,ITM_EQP_AMR_580,LIGHT_ARMOR,90,0,0,0,-6,0,-6,0,0,0,0,1000,100,None
+Giáp nhẹ,Giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_AMR_590_Text,ITM_EQP_AMR_590,LIGHT_ARMOR,350,0,0,0,-23,0,-23,0,0,0,0,8700,870,None
+Giáp nhẹ,Giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_AMR_600_Text,ITM_EQP_AMR_600,LIGHT_ARMOR,600,0,0,0,-40,0,-40,0,0,0,0,15200,1520,None
+Giáp nhẹ,Giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_AMR_610_Text,ITM_EQP_AMR_610,LIGHT_ARMOR,950,0,0,0,-63,0,-63,0,0,0,0,24000,2400,None
+Giáp nhẹ,Giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_AMR_620_Text,ITM_EQP_AMR_620,LIGHT_ARMOR,0,0,0,-40,102,0,93,0,0,0,0,15200,1520,None
+Giáp nhẹ,Giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_AMR_630_Text,ITM_EQP_AMR_630,LIGHT_ARMOR,0,0,0,-45,108,0,99,0,0,0,0,16200,1620,None
+Giáp nhẹ,Giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_AMR_640_Text,ITM_EQP_AMR_640,LIGHT_ARMOR,0,0,0,0,171,0,155,0,0,0,-66,25500,2550,None
+Giáp nhẹ,Giáp nhẹ,Acrobat's Mantle,Áo Choàng Nghệ Sĩ,軽業のマント,,,,GameTextEN::TX_NA_ITM_EQP_AMR_250_Text,ITM_EQP_AMR_250,LIGHT_ARMOR,0,0,0,0,65,0,120,0,0,0,40,15200,3040,None
+Giáp nhẹ,Giáp nhẹ,Antique Coat,Áo Cổ Phục,いにしえのコート,Equip effect: Prevents poison.,Hiệu ứng trang bị: Miễn nhiễm trạng thái độc.,装備効果：毒の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_AMR_410_Text,ITM_EQP_AMR_410,LIGHT_ARMOR,0,0,0,0,115,0,184,0,0,0,0,24000,4800,None
+Giáp nhẹ,Giáp nhẹ,Apothecary's Attire,Dược Sư Y Trang,薬師の服,,,,GameTextEN::TX_NA_ITM_EQP_AMR_031_Text,ITM_EQP_AMR_031,LIGHT_ARMOR,0,0,0,0,4,0,6,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Beastling Battle Armor,Giáp Chiến Tộc Thú,獣人の戦鎧,,,,GameTextEN::TX_NA_ITM_EQP_AMR_420_Text,ITM_EQP_AMR_420,LIGHT_ARMOR,0,0,0,0,37,0,33,0,0,11,0,4400,880,None
+Giáp nhẹ,Giáp nhẹ,Black Attire,Hắc Y,黒い装束,,,,GameTextEN::TX_NA_ITM_EQP_AMR_070_Text,ITM_EQP_AMR_070,LIGHT_ARMOR,0,0,0,0,6,0,4,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Blessed Vestments,Thánh Y,祝福された法服,,,,GameTextEN::TX_NA_ITM_EQP_AMR_540_Text,ITM_EQP_AMR_540,LIGHT_ARMOR,0,0,0,0,130,74,215,0,0,0,0,29000,5200,None
+Giáp nhẹ,Giáp nhẹ,Bone Mail,Giáp Xương,ボーンメイル,,,,GameTextEN::TX_NA_ITM_EQP_AMR_360_Text,ITM_EQP_AMR_360,LIGHT_ARMOR,0,0,0,0,70,0,47,0,0,23,0,8700,1740,None
+Giáp nhẹ,Giáp nhẹ,Butler's Tailcoat,Lễ Phục Quản Gia,バトラーテイルコート,,,,GameTextEN::TX_NA_ITM_EQP_AMR_450_Text,ITM_EQP_AMR_450,LIGHT_ARMOR,0,0,0,0,128,0,192,0,0,75,0,24000,4800,None
+Giáp nhẹ,Giáp nhẹ,Champion's Garb,Y Phục Quán Quân,闘士の装束,,,,GameTextEN::TX_NA_ITM_EQP_AMR_170_Text,ITM_EQP_AMR_170,LIGHT_ARMOR,0,0,0,0,26,0,27,0,0,30,0,3900,780,None
+Giáp nhẹ,Giáp nhẹ,Charm Robe,Áo Choàng Bùa Chú,まじないのローブ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_200_Text,ITM_EQP_AMR_200,LIGHT_ARMOR,0,0,0,0,25,15,46,0,0,0,0,4800,960,None
+Giáp nhẹ,Giáp nhẹ,Conjurer's Raiment,Pháp Bào Triệu Linh,祈祷の羽衣,Equip effect: Recover HP after performing an action.,Hiệu ứng trang bị: Hồi HP sau khi hành động.,装備効果：行動後HP回復,GameTextEN::TX_NA_ITM_EQP_AMR_460_Text,ITM_EQP_AMR_460,LIGHT_ARMOR,0,0,0,0,121,0,220,0,0,0,0,29000,5800,None
+Giáp nhẹ,Giáp nhẹ,Copper Breastplate,Giáp Ngực Đồng,銅の胸当て,,,,GameTextEN::TX_NA_ITM_EQP_AMR_100_Text,ITM_EQP_AMR_100,LIGHT_ARMOR,0,0,0,0,31,0,21,0,9,0,0,3100,620,None
+Giáp nhẹ,Giáp nhẹ,Cursed Armor,Giáp Bị Nguyền,呪われた鎧,,,,GameTextEN::TX_NA_ITM_EQP_AMR_550_Text,ITM_EQP_AMR_550,LIGHT_ARMOR,0,0,0,0,222,0,222,0,0,0,-66,33330,6666,None
+Giáp nhẹ,Giáp nhẹ,Denim Work Clothes,Y Phục Lao Động Jean,デニムの作業着,,,,GameTextEN::TX_NA_ITM_EQP_AMR_280_Text,ITM_EQP_AMR_280,LIGHT_ARMOR,0,0,0,0,63,0,63,0,0,25,0,9600,1920,None
+Giáp nhẹ,Giáp nhẹ,Desert Armor,Giáp Sa Mạc,風砂の甲冑,,,,GameTextEN::TX_NA_ITM_EQP_AMR_570_Text,ITM_EQP_AMR_570,LIGHT_ARMOR,0,0,0,0,96,0,96,0,0,0,41,15700,5200,None
+Giáp nhẹ,Giáp nhẹ,Desert Attire,Y Phục Sa Mạc,風砂の装束,,,,GameTextEN::TX_NA_ITM_EQP_AMR_010_Text,ITM_EQP_AMR_010,LIGHT_ARMOR,0,0,0,0,8,0,4,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Desert Plate,Giáp Tấm Sa Mạc,風砂の剛鎧,,,,GameTextEN::TX_NA_ITM_EQP_AMR_330_Text,ITM_EQP_AMR_330,LIGHT_ARMOR,0,0,0,0,183,0,110,0,0,0,0,24000,4800,None
+Giáp nhẹ,Giáp nhẹ,Dojo Hakama,Hakama Võ Đường,道場の袴,,,,GameTextEN::TX_NA_ITM_EQP_AMR_220_Text,ITM_EQP_AMR_220,LIGHT_ARMOR,0,0,0,0,59,0,59,0,23,0,0,8700,1740,None
+Giáp nhẹ,Giáp nhẹ,Dragon Mail,Giáp Vảy Rồng,ドラゴンメイル,Equip effect: Reduces fire damage.,Hiệu ứng trang bị: Giảm sát thương hệ Lửa.,装備効果：火ダメージ減少,GameTextEN::TX_NA_ITM_EQP_AMR_400_Text,ITM_EQP_AMR_400,LIGHT_ARMOR,0,0,0,0,195,0,105,0,0,0,0,25000,5000,None
+Giáp nhẹ,Giáp nhẹ,Dyed Clothes,Y Phục Nhuộm,染物の服,Equip effect: Reduces light and dark damage.,Hiệu ứng trang bị: Giảm sát thương hệ Ánh Sáng và Bóng Tối.,装備効果：光/闇ダメージ減少,GameTextEN::TX_NA_ITM_EQP_AMR_440_Text,ITM_EQP_AMR_440,LIGHT_ARMOR,0,0,0,0,50,0,75,0,0,0,0,9600,1920,None
+Giáp nhẹ,Giáp nhẹ,Elemental Robe,Áo Choàng Nguyên Tố,エレメントローブ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_230_Text,ITM_EQP_AMR_230,LIGHT_ARMOR,0,0,0,0,48,0,73,0,0,0,0,9100,1820,None
+Giáp nhẹ,Giáp nhẹ,Falcon Coat,Áo Choàng Ưng,ハヤブサのコート,,,,GameTextEN::TX_NA_ITM_EQP_AMR_240_Text,ITM_EQP_AMR_240,LIGHT_ARMOR,0,0,0,0,44,0,83,0,26,0,0,10100,2020,None
+Giáp nhẹ,Giáp nhẹ,Feather Mantle,Áo Choàng Lông Vũ,フェザーマント,,,,GameTextEN::TX_NA_ITM_EQP_AMR_160_Text,ITM_EQP_AMR_160,LIGHT_ARMOR,0,0,0,0,26,0,38,0,0,0,10,3900,780,None
+Giáp nhẹ,Giáp nhẹ,Frog Membrane,Màng Ếch,大蛙の皮膜,,,,GameTextEN::TX_NA_ITM_EQP_AMR_040_Text,ITM_EQP_AMR_040,LIGHT_ARMOR,0,0,0,0,7,0,5,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Fur Armor,Giáp Lông Thú,皮の鎧,,,,GameTextEN::TX_NA_ITM_EQP_AMR_090_Text,ITM_EQP_AMR_090,LIGHT_ARMOR,0,0,0,0,19,0,14,0,0,0,0,400,80,None
+Giáp nhẹ,Giáp nhẹ,Fur Robe,Áo Choàng Lông Thú,毛皮のローブ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_140_Text,ITM_EQP_AMR_140,LIGHT_ARMOR,0,0,0,0,28,9,34,0,0,0,0,3500,700,None
+Giáp nhẹ,Giáp nhẹ,Gorgeous Sari,Sari Lộng Lẫy,煌びやかなサリー,,,,GameTextEN::TX_NA_ITM_EQP_AMR_490_Text,ITM_EQP_AMR_490,LIGHT_ARMOR,0,0,0,0,42,0,79,0,0,0,27,9100,1820,None
+Giáp nhẹ,Giáp nhẹ,Guard's Armor,Giáp Lính Gác,衛兵の鎧,,,,GameTextEN::TX_NA_ITM_EQP_AMR_150_Text,ITM_EQP_AMR_150,LIGHT_ARMOR,0,0,0,0,40,0,24,0,0,0,0,2900,580,None
+Giáp nhẹ,Giáp nhẹ,Hunting Attire,Y Phục Săn Bắn,狩りの装束,,,,GameTextEN::TX_NA_ITM_EQP_AMR_120_Text,ITM_EQP_AMR_120,LIGHT_ARMOR,0,0,0,0,29,0,32,0,0,8,0,3100,620,None
+Giáp nhẹ,Giáp nhẹ,Imperial Armor,Giáp Đế Chế,インペリアルアーマー,,,,GameTextEN::TX_NA_ITM_EQP_AMR_430_Text,ITM_EQP_AMR_430,LIGHT_ARMOR,600,0,0,0,162,0,132,0,0,0,0,24000,4800,None
+Giáp nhẹ,Giáp nhẹ,Iron Mail,Giáp Sắt,アイアンメイル,,,,GameTextEN::TX_NA_ITM_EQP_AMR_190_Text,ITM_EQP_AMR_190,LIGHT_ARMOR,100,0,0,0,42,0,28,0,0,0,0,4400,880,None
+Giáp nhẹ,Giáp nhẹ,Knight's Armor,Giáp Hiệp Sĩ,ナイトアーマー,,,,GameTextEN::TX_NA_ITM_EQP_AMR_260_Text,ITM_EQP_AMR_260,LIGHT_ARMOR,300,0,0,0,99,0,65,0,0,0,0,15200,3040,None
+Giáp nhẹ,Giáp nhẹ,Lightning Armor,Giáp Tia Chớp,稲妻の鎧,Equip effect: Reduces lightning damage.,Hiệu ứng trang bị: Giảm sát thương hệ Sét.,装備効果：雷ダメージ減少,GameTextEN::TX_NA_ITM_EQP_AMR_380_Text,ITM_EQP_AMR_380,LIGHT_ARMOR,0,0,0,0,124,0,67,0,0,0,0,15700,3140,None
+Giáp nhẹ,Giáp nhẹ,Mage's Robe,Áo Choàng Pháp Sư,魔法使いのローブ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_270_Text,ITM_EQP_AMR_270,LIGHT_ARMOR,0,0,0,0,74,41,112,0,0,0,0,15200,3040,None
+Giáp nhẹ,Giáp nhẹ,Nimble Mantle,Áo Choàng Linh Hoạt,クロックアップマント,,,,GameTextEN::TX_NA_ITM_EQP_AMR_210_Text,ITM_EQP_AMR_210,LIGHT_ARMOR,0,0,0,0,65,0,53,0,0,0,22,8700,1740,None
+Giáp nhẹ,Giáp nhẹ,Old Armor,Giáp Cũ,古びた鎧,,,,GameTextEN::TX_NA_ITM_EQP_AMR_560_Text,ITM_EQP_AMR_560,LIGHT_ARMOR,0,0,0,0,18,0,13,0,0,0,0,400,80,None
+Giáp nhẹ,Giáp nhẹ,Ornate Costume,Trang Phục Chạm Trổ,絢爛な舞台衣装,,,,GameTextEN::TX_NA_ITM_EQP_AMR_320_Text,ITM_EQP_AMR_320,LIGHT_ARMOR,0,0,0,0,118,0,176,0,63,0,0,24000,4800,None
+Giáp nhẹ,Giáp nhẹ,Pilgrim's Robe,Áo Choàng Hành Hương,巡礼者のローブ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_110_Text,ITM_EQP_AMR_110,LIGHT_ARMOR,0,0,0,0,27,0,33,0,0,0,0,3100,620,None
+Giáp nhẹ,Giáp nhẹ,Platinum Mail,Giáp Xích Bạch Kim,プラチナメイル,,,,GameTextEN::TX_NA_ITM_EQP_AMR_290_Text,ITM_EQP_AMR_290,LIGHT_ARMOR,400,0,0,0,109,0,89,0,0,0,0,22000,4400,None
+Giáp nhẹ,Giáp nhẹ,Prisoner's Clothes,Quần Áo Tù Nhân,囚人服,,,,GameTextEN::TX_NA_ITM_EQP_AMR_021_Text,ITM_EQP_AMR_021,LIGHT_ARMOR,0,0,0,0,6,0,3,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Protector's Vestments,Y Phục Hộ Vệ,守り人の戦装束,,,,GameTextEN::TX_NA_ITM_EQP_AMR_530_Text,ITM_EQP_AMR_530,LIGHT_ARMOR,0,0,0,0,112,0,208,0,0,0,69,26500,5300,None
+Giáp nhẹ,Giáp nhẹ,Quality Vest,Áo Gile Thượng Hạng,仕立ての良いベスト,,,,GameTextEN::TX_NA_ITM_EQP_AMR_480_Text,ITM_EQP_AMR_480,LIGHT_ARMOR,0,0,0,0,28,0,36,0,0,0,15,3900,780,None
+Giáp nhẹ,Giáp nhẹ,Quartz Robe,Áo Choàng Thạch Anh,クォーツローブ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_310_Text,ITM_EQP_AMR_310,LIGHT_ARMOR,0,0,0,0,146,0,149,0,0,0,0,24000,4800,None
+Giáp nhẹ,Giáp nhẹ,Quick Cloak,Áo Choàng Thần Tốc,神速のマント,,,,GameTextEN::TX_NA_ITM_EQP_AMR_300_Text,ITM_EQP_AMR_300,LIGHT_ARMOR,0,0,0,0,132,0,162,0,0,0,65,24000,4800,None
+Giáp nhẹ,Giáp nhẹ,Resplendent Costume,Trang Phục Lộng Lẫy,きらびやかな舞台衣装,,,,GameTextEN::TX_NA_ITM_EQP_AMR_390_Text,ITM_EQP_AMR_390,LIGHT_ARMOR,0,0,0,0,130,0,169,0,78,0,0,25000,5000,None
+Giáp nhẹ,Giáp nhẹ,Robe,Áo Choàng,ローブ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_060_Text,ITM_EQP_AMR_060,LIGHT_ARMOR,0,0,0,0,5,0,10,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Royal Guard's Mail,Giáp Xích Cận Vệ Hoàng Gia,ロイヤルガードメイル,,,,GameTextEN::TX_NA_ITM_EQP_AMR_520_Text,ITM_EQP_AMR_520,LIGHT_ARMOR,750,0,0,0,160,0,160,0,0,0,0,26500,5300,None
+Giáp nhẹ,Giáp nhẹ,Sailor's Vest,Áo Gile Thủy Thủ,船乗りのベスト,,,,GameTextEN::TX_NA_ITM_EQP_AMR_180_Text,ITM_EQP_AMR_180,LIGHT_ARMOR,0,0,0,0,36,0,30,0,10,0,0,3900,780,None
+Giáp nhẹ,Giáp nhẹ,Sanctum Knight's Armor,Giáp Thánh Kỵ Sĩ,聖堂騎士の甲冑,,,,GameTextEN::TX_NA_ITM_EQP_AMR_041_Text,ITM_EQP_AMR_041,LIGHT_ARMOR,100,0,0,0,20,0,5,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Simple Costume,Trang Phục Đơn Giản,質素な舞台衣装,,,,GameTextEN::TX_NA_ITM_EQP_AMR_340_Text,ITM_EQP_AMR_340,LIGHT_ARMOR,0,0,0,0,26,0,39,0,16,0,0,3900,780,None
+Giáp nhẹ,Giáp nhẹ,Star's Gown,Váy Dạ Hội Sao Trời,スターのロングドレス,,,,GameTextEN::TX_NA_ITM_EQP_AMR_650_Text,ITM_EQP_AMR_650,LIGHT_ARMOR,0,0,0,0,155,0,180,0,80,0,0,29000,5800,None
+Giáp nhẹ,Giáp nhẹ,Sublime Ornamental Armor,Giáp Trang Trí Tuyệt Mỹ,至高の装飾甲冑,"Equip effect: Reduces fire, ice, lightning, and wind damage.","Hiệu ứng trang bị: Giảm sát thương hệ Lửa, Băng, Sét và Gió.",装備効果：火/氷/雷/風ダメージ減少,GameTextEN::TX_NA_ITM_EQP_AMR_470_Text,ITM_EQP_AMR_470,LIGHT_ARMOR,0,0,0,0,180,0,180,0,0,0,0,26500,5300,None
+Giáp nhẹ,Giáp nhẹ,Tattered Dress,Váy Rách,ボロボロのドレス,,,,GameTextEN::TX_NA_ITM_EQP_AMR_050_Text,ITM_EQP_AMR_050,LIGHT_ARMOR,0,0,0,0,4,0,4,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Tough Waistcoat,Áo Gile Bền Bỉ,頑丈なチョッキ,,,,GameTextEN::TX_NA_ITM_EQP_AMR_042_Text,ITM_EQP_AMR_042,LIGHT_ARMOR,0,0,0,0,7,0,5,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,Traveler's Mantle,Áo Choàng Lữ Khách,旅人のマント,,,,GameTextEN::TX_NA_ITM_EQP_AMR_130_Text,ITM_EQP_AMR_130,LIGHT_ARMOR,0,0,0,0,24,0,36,0,0,0,7,3100,620,None
+Giáp nhẹ,Giáp nhẹ,Vest of Joy,Áo Choàng Niềm Vui,ハッピーベスト,"Equip effect: Raises resistance to poison, sleep, confusion, blindness, silence, terror, and unconsciousness.","Hiệu ứng trang bị: Tăng sức kháng độc, ngủ, lú lẫn, mù, câm lặng, kinh hãi và bất tỉnh.","装備効果：毒/睡眠/混乱/暗闇
+沈黙/恐怖/気絶になりにくくなる",GameTextEN::TX_NA_ITM_EQP_AMR_370_Text,ITM_EQP_AMR_370,LIGHT_ARMOR,0,0,0,0,170,0,170,0,0,0,0,26500,5300,None
+Giáp nhẹ,Giáp nhẹ,Villager's Clothes,Y Phục Dân Làng,村人の衣服,,,,GameTextEN::TX_NA_ITM_EQP_AMR_080_Text,ITM_EQP_AMR_080,LIGHT_ARMOR,0,0,0,0,4,0,4,0,0,0,0,200,40,None
+Giáp nhẹ,Giáp nhẹ,White Wolf Scarf,Khăn Choàng Sói Trắng,白狼のマフラー,,,,GameTextEN::TX_NA_ITM_EQP_AMR_500_Text,ITM_EQP_AMR_500,LIGHT_ARMOR,0,0,0,0,73,0,89,0,56,0,0,15200,3040,None
+Giáp nhẹ,Giáp nhẹ,Wind Robe,Phong Bào,風の装束,Equip effect: Reduces wind damage.,Hiệu ứng trang bị: Giảm sát thương hệ Gió.,装備効果：風ダメージ減少,GameTextEN::TX_NA_ITM_EQP_AMR_350_Text,ITM_EQP_AMR_350,LIGHT_ARMOR,0,0,0,0,33,0,36,0,0,0,0,3900,780,None
+Giáp nhẹ,Giáp nhẹ,Worker's Jacket,Áo Khoác Lao Công,労働者のジャケット,,,,GameTextEN::TX_NA_ITM_EQP_AMR_510_Text,ITM_EQP_AMR_510,LIGHT_ARMOR,0,0,0,0,8,0,8,0,0,0,0,200,40,None
+Khiên,Khiên,,,,,,,GameTextEN::TX_NA_ITM_EQP_SLD_390_Text,ITM_EQP_SLD_390,SHIELD,0,0,0,0,15,0,-3,0,0,0,0,600,60,None
+Khiên,Khiên,,,,,,,GameTextEN::TX_NA_ITM_EQP_SLD_400_Text,ITM_EQP_SLD_400,SHIELD,0,0,0,0,34,0,-9,0,0,0,0,3300,330,None
+Khiên,Khiên,,,,,,,GameTextEN::TX_NA_ITM_EQP_SLD_410_Text,ITM_EQP_SLD_410,SHIELD,0,0,0,0,84,0,-30,0,0,0,0,11500,1150,None
+Khiên,Khiên,,,,,,,GameTextEN::TX_NA_ITM_EQP_SLD_420_Text,ITM_EQP_SLD_420,SHIELD,0,0,0,0,131,0,-47,0,0,0,0,18000,1800,None
+Khiên,Khiên,Adamantine Buckler,Khiên Tay Adamantine,アダマンバックラー,,,,GameTextEN::TX_NA_ITM_EQP_SLD_230_Text,ITM_EQP_SLD_230,SHIELD,0,0,0,0,95,0,81,0,48,0,0,18000,3600,None
+Khiên,Khiên,Aegis Shield,Khiên Aegis,イージスシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_210_Text,ITM_EQP_SLD_210,SHIELD,0,0,0,0,104,0,61,0,0,0,0,18000,3600,None
+Khiên,Khiên,Battle-Tested Shield,Khiên Thử Lửa,歴戦の盾,Equip effect: Recover HP and SP after performing an action.,Hiệu ứng trang bị: Hồi HP và SP sau khi hành động.,装備効果：行動後HP/SP回復,GameTextEN::TX_NA_ITM_EQP_SLD_190_Text,ITM_EQP_SLD_190,SHIELD,0,0,0,0,120,0,120,0,0,0,0,50000,10000,None
+Khiên,Khiên,Bodyguard's Vantage,Thế Thủ Vệ Sĩ,用心棒のバンテージ,,,,GameTextEN::TX_NA_ITM_EQP_SLD_320_Text,ITM_EQP_SLD_320,SHIELD,0,0,0,60,0,0,0,80,0,60,0,23000,4600,None
+Khiên,Khiên,Bronze Shield,Khiên Đồng,ブロンズシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_050_Text,ITM_EQP_SLD_050,SHIELD,30,0,0,0,17,0,16,0,0,0,0,2300,460,None
+Khiên,Khiên,Buckler,Khiên Tay,バックラー,,,,GameTextEN::TX_NA_ITM_EQP_SLD_040_Text,ITM_EQP_SLD_040,SHIELD,0,0,0,0,11,0,9,0,0,0,0,600,120,None
+Khiên,Khiên,Crested Greatshield,Đại Khiên Gia Huy,紋章の大盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_120_Text,ITM_EQP_SLD_120,SHIELD,0,0,0,0,31,0,31,0,-30,0,0,3300,660,None
+Khiên,Khiên,Cursed Shield,Khiên Bị Nguyền,呪われた盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_360_Text,ITM_EQP_SLD_360,SHIELD,0,0,0,0,133,0,133,0,-66,0,0,33330,6666,None
+Khiên,Khiên,Diamond Shield,Khiên Kim Cương,ダイヤモンドシールド,Equip effect: Prevents instant death.,Hiệu ứng trang bị: Miễn nhiễm tử vong tức thì.,装備効果：即死の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_SLD_330_Text,ITM_EQP_SLD_330,SHIELD,0,0,0,0,72,0,69,0,0,0,0,12000,2400,None
+Khiên,Khiên,Feather Shield,Khiên Lông Vũ,フェザーシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_160_Text,ITM_EQP_SLD_160,SHIELD,0,0,0,0,27,0,31,0,0,0,26,6900,1380,None
+Khiên,Khiên,Forbidden Shield,Khiên Cấm,禁断の盾,Equip effect: Raises the chances of encountering enemies.,Hiệu ứng trang bị: Tăng khả năng gặp kẻ địch.,装備効果：敵との遭遇率が上がる,GameTextEN::TX_NA_ITM_EQP_SLD_180_Text,ITM_EQP_SLD_180,SHIELD,0,0,0,0,118,0,103,0,0,0,0,20000,4000,None
+Khiên,Khiên,Giant Shield,Khiên Khổng Lồ,ジャイアントシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_350_Text,ITM_EQP_SLD_350,SHIELD,0,0,0,0,105,0,103,0,0,0,-60,20500,4100,None
+Khiên,Khiên,Gray Shield,Khiên Xám,鈍色の盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_021_Text,ITM_EQP_SLD_021,SHIELD,0,0,0,0,6,0,3,0,0,0,0,200,40,None
+Khiên,Khiên,Guard's Shield,Khiên Lính Gác,衛兵の盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_100_Text,ITM_EQP_SLD_100,SHIELD,0,0,0,0,25,0,21,0,0,0,0,2000,400,None
+Khiên,Khiên,Heavy Greatshield,Đại Khiên Nặng,重装兵の大盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_200_Text,ITM_EQP_SLD_200,SHIELD,0,0,0,0,76,0,76,0,-55,0,0,11500,2300,None
+Khiên,Khiên,Iron Shield,Khiên Sắt,アイアンシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_110_Text,ITM_EQP_SLD_110,SHIELD,60,0,0,0,24,0,20,0,0,0,0,3000,600,None
+Khiên,Khiên,Kite Shield,Khiên Diều,カイトシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_080_Text,ITM_EQP_SLD_080,SHIELD,0,0,0,0,20,0,18,0,0,0,0,2300,460,None
+Khiên,Khiên,Leather Buckler,Khiên Tay Da,レザーバックラー,,,,GameTextEN::TX_NA_ITM_EQP_SLD_060_Text,ITM_EQP_SLD_060,SHIELD,0,0,0,0,16,0,20,0,7,0,0,2300,460,None
+Khiên,Khiên,Makeshift Shield,Khiên Chắp Vá,ただの盾,"It's not much of a shield,
+but it'll have to do.","Khiên này chẳng ra gì,
+nhưng đành dùng tạm vậy.",なんの変哲も無い盾,GameTextEN::TX_NA_ITM_EQP_SLD_011_Text,ITM_EQP_SLD_011,SHIELD,0,0,0,0,0,0,0,0,0,0,0,0,0,None
+Khiên,Khiên,Master's Shield,Khiên Tuyệt Nghệ,名家の盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_370_Text,ITM_EQP_SLD_370,SHIELD,0,0,0,0,58,0,58,0,0,0,31,11800,2360,None
+Khiên,Khiên,Plate Buckler,Khiên Tay Bọc Thép,プレートバックラー,,,,GameTextEN::TX_NA_ITM_EQP_SLD_170_Text,ITM_EQP_SLD_170,SHIELD,0,0,0,0,43,0,35,0,19,0,0,7200,1440,None
+Khiên,Khiên,Platinum Shield,Khiên Bạch Kim,プラチナシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_220_Text,ITM_EQP_SLD_220,SHIELD,400,0,0,0,65,0,53,0,0,0,0,16000,3200,None
+Khiên,Khiên,Protector's Shield,Khiên Hộ Vệ,守り人の戦盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_340_Text,ITM_EQP_SLD_340,SHIELD,0,0,0,0,96,0,98,0,0,49,0,20500,4100,None
+Khiên,Khiên,Quartz Shield,Khiên Thạch Anh,クォーツシールド,Equip effect: Prevents blindness.,Hiệu ứng trang bị: Miễn nhiễm trạng thái mù.,装備効果：暗闇の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_SLD_290_Text,ITM_EQP_SLD_290,SHIELD,0,0,0,0,87,0,105,0,0,0,0,20000,4000,None
+Khiên,Khiên,Rabbit Shield,Khiên Thỏ,野ウサギの盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_250_Text,ITM_EQP_SLD_250,SHIELD,0,0,0,0,23,0,22,0,0,0,15,3300,660,None
+Khiên,Khiên,Resplendent Shield,Khiên Lộng Lẫy,白銀の盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_031_Text,ITM_EQP_SLD_031,SHIELD,0,0,0,0,10,0,10,0,0,0,0,200,40,None
+Khiên,Khiên,Round Shield,Khiên Tròn,ラウンドシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_090_Text,ITM_EQP_SLD_090,SHIELD,0,0,0,0,15,0,21,0,0,0,6,2300,460,None
+Khiên,Khiên,Shell Buckler,Khiên Tay Vỏ Sò,シェルバックラー,,,,GameTextEN::TX_NA_ITM_EQP_SLD_130_Text,ITM_EQP_SLD_130,SHIELD,0,0,0,0,26,0,22,0,9,0,0,3600,720,None
+Khiên,Khiên,Shield of Serenity,Khiên Thanh Tịnh,静寂の盾,Equip effect: Prevents confusion.,Hiệu ứng trang bị: Miễn nhiễm trạng thái lú lẫn.,装備効果：混乱の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_SLD_270_Text,ITM_EQP_SLD_270,SHIELD,0,0,0,0,52,0,64,0,0,0,0,11500,2300,None
+Khiên,Khiên,Shield of Strength,Khiên Sức Mạnh,最強を謳う盾,Equip effect: Guaranteed critical hit when taking damage.,Hiệu ứng trang bị: Đảm bảo chí mạng khi nhận sát thương.,装備効果：受ければ必ずクリティカル,GameTextEN::TX_NA_ITM_EQP_SLD_300_Text,ITM_EQP_SLD_300,SHIELD,0,0,0,0,108,0,108,0,0,0,0,18000,3600,None
+Khiên,Khiên,Silver Shield,Khiên Bạc,シルバーシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_140_Text,ITM_EQP_SLD_140,SHIELD,150,0,0,0,42,0,34,0,0,0,0,6500,1300,None
+Khiên,Khiên,Small Shield,Khiên Nhỏ,スモールシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_030_Text,ITM_EQP_SLD_030,SHIELD,0,0,0,0,5,0,3,0,0,0,0,200,40,None
+Khiên,Khiên,Spiked Shield,Khiên Gai,スパイクシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_150_Text,ITM_EQP_SLD_150,SHIELD,0,0,0,0,44,0,32,0,0,17,0,6500,1300,None
+Khiên,Khiên,Sturdy Shield,Khiên Chắc Chắn,ラージシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_070_Text,ITM_EQP_SLD_070,SHIELD,0,0,0,0,25,0,25,0,-20,0,0,2300,460,None
+Khiên,Khiên,Sun Shield,Khiên Mặt Trời,太陽紋の盾,Equip effect: Recover HP after performing an action.,Hiệu ứng trang bị: Hồi HP sau khi hành động.,装備効果：行動後HP回復,GameTextEN::TX_NA_ITM_EQP_SLD_280_Text,ITM_EQP_SLD_280,SHIELD,0,0,0,0,91,0,91,0,0,0,0,19000,3800,None
+Khiên,Khiên,Swift Shield,Khiên Nhanh Nhẹn,クイックシールド,,,,GameTextEN::TX_NA_ITM_EQP_SLD_240_Text,ITM_EQP_SLD_240,SHIELD,0,0,0,0,79,0,97,0,0,0,47,18000,3600,None
+Khiên,Khiên,Tattered Sacred Shield,Khiên Thánh Rách Nát,傷だらけの聖盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_380_Text,ITM_EQP_SLD_380,SHIELD,0,0,0,0,35,0,35,0,0,0,0,6900,1380,None
+Khiên,Khiên,Weathered Treasure Shield,Khiên Báu Phong Hóa,風化した宝盾,Equip effect: Recover SP after performing an action.,Hiệu ứng trang bị: Hồi SP sau khi hành động.,装備効果：行動後SP回復,GameTextEN::TX_NA_ITM_EQP_SLD_260_Text,ITM_EQP_SLD_260,SHIELD,0,0,0,0,20,0,24,0,0,0,0,3300,660,None
+Khiên,Khiên,Wise King's Shield,Khiên Hiền Vương,堅王の盾,Equip effect: Raises physical defense at start of battle.,Hiệu ứng trang bị: Tăng Phòng Thủ Vật Lý khi bắt đầu trận chiến.,"装備効果：バトル開始時に
+物防アップの効果を付与する",GameTextEN::TX_NA_ITM_EQP_SLD_310_Text,ITM_EQP_SLD_310,SHIELD,0,0,0,0,110,0,110,0,0,0,0,23000,4600,None
+Khiên,Khiên,Wooden Shield,Khiên Gỗ,木の盾,,,,GameTextEN::TX_NA_ITM_EQP_SLD_032_Text,ITM_EQP_SLD_032,SHIELD,0,0,0,0,4,0,4,0,0,0,0,200,40,None
+Kiếm,Kiếm,,,,,,,GameTextEN::TX_NA_ITM_EQP_SWD_500_Text,ITM_EQP_SWD_500,SWORD,0,0,0,352,0,0,0,0,-94,0,0,60000,3000,SWD_8002
+Kiếm,Kiếm,Aegis Sword,Kiếm Aegis,イージスソード,,,,GameTextEN::TX_NA_ITM_EQP_SWD_200_Text,ITM_EQP_SWD_200,SWORD,0,0,0,197,0,0,0,0,0,0,59,37000,7400,SWD_8000
+Kiếm,Kiếm,Bastard Sword,Kiếm Bán Thủ,落胤の曲刀,,,,GameTextEN::TX_NA_ITM_EQP_SWD_230_Text,ITM_EQP_SWD_230,SWORD,0,0,0,292,0,0,0,87,0,0,0,55000,11000,SWD_8002
+Kiếm,Kiếm,Battle-Tested Blade,Kiếm Thử Lửa,歴戦の剣,Equip effect: Raises potency of physical skills.,Hiệu ứng trang bị: Tăng uy lực kỹ năng vật lý.,装備効果：物理アビリティの威力＋,GameTextEN::TX_NA_ITM_EQP_SWD_300_Text,ITM_EQP_SWD_300,SWORD,0,0,0,400,0,0,0,0,0,120,0,100000,20000,SWD_8005
+Kiếm,Kiếm,Bloodsucker,Hấp Huyết Kiếm,血吸いの妖刀,Attack effect: Recover HP equivalent to 25% of the damage dealt.,Hiệu ứng tấn công: Hồi lượng HP bằng 25% sát thương gây ra.,"攻撃効果：与えたダメージの２５％の
+HPを回復する",GameTextEN::TX_NA_ITM_EQP_SWD_340_Text,ITM_EQP_SWD_340,SWORD,0,0,0,199,0,0,0,0,0,0,0,55000,11000,SWD_8010
+Kiếm,Kiếm,Broadsword,Kiếm Bản Rộng,ブロードソード,,,,GameTextEN::TX_NA_ITM_EQP_SWD_060_Text,ITM_EQP_SWD_060,SWORD,0,0,0,48,0,0,0,0,0,0,11,7000,1400,SWD_8000
+Kiếm,Kiếm,Champion's Sword,Quán Quân Kiếm,闘士の曲剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_100_Text,ITM_EQP_SWD_100,SWORD,0,0,0,70,0,0,0,18,0,0,0,11000,2200,SWD_8002
+Kiếm,Kiếm,Clan Mei Sword,Kiếm Gia Tộc Mei,メイ家の剣,Attack effect: Slim chance to reduce target's accuracy.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Chính Xác của mục tiêu.,攻撃効果：まれに対象の命中を減少,GameTextEN::TX_NA_ITM_EQP_SWD_460_Text,ITM_EQP_SWD_460,SWORD,0,0,0,192,0,0,0,0,0,0,0,36000,7200,SWD_8000
+Kiếm,Kiếm,Conqueror's Sword,Kiếm Chinh Phục,覇王の剣,Attack effect: Raise physical attack by 250 against broken foes.,Hiệu ứng tấn công: Tăng 250 Tấn Công Vật Lý khi đánh kẻ địch bị phá khiên.,"攻撃効果：対象がブレイクされた状態
+のときに物理攻撃力を＋２５０する",GameTextEN::TX_NA_ITM_EQP_SWD_990_Text,ITM_EQP_SWD_990,SWORD,0,0,0,200,0,0,0,0,0,0,0,150000,100000,SWD_8016
+Kiếm,Kiếm,Crescent Saber,Kiếm Lưỡi Liềm,クレセントサーベル,,,,GameTextEN::TX_NA_ITM_EQP_SWD_350_Text,ITM_EQP_SWD_350,SWORD,0,0,0,123,0,0,0,36,0,0,0,23000,4600,SWD_8002
+Kiếm,Kiếm,Desert Blade,Kiếm Sa Mạc,風砂の刀,,,,GameTextEN::TX_NA_ITM_EQP_SWD_020_Text,ITM_EQP_SWD_020,SWORD,0,0,0,5,0,0,0,0,0,0,0,200,40,SWD_8001
+Kiếm,Kiếm,Divine Splendor,Thần Quang,韋駄天丸,,,,GameTextEN::TX_NA_ITM_EQP_SWD_470_Text,ITM_EQP_SWD_470,SWORD,0,0,0,345,0,0,0,0,0,0,110,65000,13000,SWD_8009
+Kiếm,Kiếm,Eclipse Edge,Lưỡi Kiếm Nhật Thực,黒蝕の大剣,Equip effect: Raises potency of dark-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Bóng Tối.,装備効果：闇属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_SWD_320_Text,ITM_EQP_SWD_320,SWORD,0,0,0,352,0,0,0,-75,0,0,0,80000,16000,SWD_8017
+Kiếm,Kiếm,Enchanted Edge,Ma Phù Kiếm,魔力の曲剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_180_Text,ITM_EQP_SWD_180,SWORD,0,0,0,183,0,140,0,0,0,0,0,33000,6600,SWD_8002
+Kiếm,Kiếm,Evil Slayer,Trảm Tà,エビルスレイヤー,,,,GameTextEN::TX_NA_ITM_EQP_SWD_420_Text,ITM_EQP_SWD_420,SWORD,0,0,0,305,0,0,0,52,0,52,0,55000,11000,SWD_8007
+Kiếm,Kiếm,Expert's Obsidian Edge,Hắc Diệu Kiếm Tinh Xảo,達人の漆黒刀,Attack effect: Slim chance to reduce target's elemental defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属防を減少,GameTextEN::TX_NA_ITM_EQP_SWD_480_Text,ITM_EQP_SWD_480,SWORD,0,0,0,343,0,0,0,105,0,0,0,65000,13000,SWD_8008
+Kiếm,Kiếm,Firestarter,Hỏa Chủng,陽炎の剣,Equip effect: Raises potency of fire-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Lửa.,装備効果：火属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_SWD_380_Text,ITM_EQP_SWD_380,SWORD,0,0,0,195,0,298,0,0,0,0,0,65000,13000,SWD_8020
+Kiếm,Kiếm,Forbidden Blade,Kiếm Cấm,禁断の剣,Attack effect: Slim chance to raise target's physical attack.,Hiệu ứng tấn công: Có xác suất nhỏ tăng Tấn Công Vật Lý của mục tiêu.,攻撃効果：まれに対象の物攻を増加,GameTextEN::TX_NA_ITM_EQP_SWD_290_Text,ITM_EQP_SWD_290,SWORD,0,0,0,322,0,0,0,0,0,0,77,80000,16000,SWD_8015
+Kiếm,Kiếm,Giant's Blade,Kiếm Khổng Lồ,ジャイアントブレイド,,,,GameTextEN::TX_NA_ITM_EQP_SWD_210_Text,ITM_EQP_SWD_210,SWORD,0,0,0,323,0,0,0,-65,0,0,0,56000,11200,SWD_8012
+Kiếm,Kiếm,Great Blade,Đại Kiếm,グレートブレイド,,,,GameTextEN::TX_NA_ITM_EQP_SWD_150_Text,ITM_EQP_SWD_150,SWORD,0,0,0,205,0,0,0,-60,0,0,0,36000,7200,SWD_8012
+Kiếm,Kiếm,Guard's Saber,Đao Cong Vệ Binh,衛兵のサーベル,,,,GameTextEN::TX_NA_ITM_EQP_SWD_080_Text,ITM_EQP_SWD_080,SWORD,0,0,0,54,0,0,0,12,0,0,0,6500,1300,SWD_8002
+Kiếm,Kiếm,Guardian's Iceblade,Băng Kiếm Hộ Vệ,守護者の氷剣,Equip effect: Raises potency of ice-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Băng.,装備効果：氷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_SWD_360_Text,ITM_EQP_SWD_360,SWORD,0,0,0,203,0,0,0,0,41,0,0,37000,7400,SWD_8004
+Kiếm,Kiếm,Heavy Blade,Kiếm Nặng,ヘヴィブレイド,,,,GameTextEN::TX_NA_ITM_EQP_SWD_090_Text,ITM_EQP_SWD_090,SWORD,0,0,0,80,0,0,0,-55,0,0,0,15000,3000,SWD_8012
+Kiếm,Kiếm,Heretic's Greatsword,Đại Kiếm Dị Giáo,異端者の大剣,Equip effect: Raises potency of dark-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Bóng Tối.,装備効果：闇属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_SWD_270_Text,ITM_EQP_SWD_270,SWORD,0,0,0,69,0,0,0,-40,0,0,0,9000,1800,SWD_8013
+Kiếm,Kiếm,Hypno Sword,Kiếm Thôi Miên,ヒュプノスソード,Attack effect: Slim chance to put target to sleep.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu rơi vào trạng thái ngủ.,攻撃効果：まれに対象へ睡眠を付与,GameTextEN::TX_NA_ITM_EQP_SWD_170_Text,ITM_EQP_SWD_170,SWORD,0,0,0,310,0,0,0,0,90,0,0,55000,11000,SWD_8000
+Kiếm,Kiếm,Imitation Sword,Kiếm Nhái,模擬刀,,,,GameTextEN::TX_NA_ITM_EQP_SWD_021_Text,ITM_EQP_SWD_021,SWORD,0,0,0,10,0,0,0,0,0,0,0,200,40,SWD_8001
+Kiếm,Kiếm,Iron Blade,Kiếm Sắt,アイアンブレイド,,,,GameTextEN::TX_NA_ITM_EQP_SWD_400_Text,ITM_EQP_SWD_400,SWORD,0,0,0,30,0,0,0,-20,0,0,0,2600,520,SWD_8012
+Kiếm,Kiếm,Keepsake Sword,Kiếm Kỷ Niệm,形見の刀,Attack effect: Slim chance to reduce target's evasion.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Né Tránh của mục tiêu.,攻撃効果：まれに対象の回避を減少,GameTextEN::TX_NA_ITM_EQP_SWD_240_Text,ITM_EQP_SWD_240,SWORD,0,0,0,312,0,0,0,0,0,86,0,55000,11000,SWD_8003
+Kiếm,Kiếm,Knight's Sword,Kiếm Hiệp Sĩ,騎士の直剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_032_Text,ITM_EQP_SWD_032,SWORD,0,0,0,12,0,0,0,0,0,0,0,200,40,SWD_8000_GST
+Kiếm,Kiếm,Little Crow,Quạ Nhỏ,小烏丸,,,,GameTextEN::TX_NA_ITM_EQP_SWD_130_Text,ITM_EQP_SWD_130,SWORD,0,0,0,112,0,0,0,0,0,34,0,21000,4200,SWD_8001
+Kiếm,Kiếm,Long Sword,Trường Kiếm,ロングソード,,,,GameTextEN::TX_NA_ITM_EQP_SWD_041_Text,ITM_EQP_SWD_041,SWORD,0,0,0,12,0,0,0,0,0,0,0,800,160,SWD_8000
+Kiếm,Kiếm,Lost Tribe's Blade,Kiếm Tộc Thất Lạc,忘れられた種族の剣,Attack effect: Slim chance to instantly kill target.,Hiệu ứng tấn công: Có xác suất nhỏ hạ gục mục tiêu ngay lập tức.,攻撃効果：まれに対象を即死させる,GameTextEN::TX_NA_ITM_EQP_SWD_490_Text,ITM_EQP_SWD_490,SWORD,0,0,0,386,-101,0,0,0,0,0,0,65000,13000,SWD_8013
+Kiếm,Kiếm,Magic Eater,Thôn Ma Kiếm,退魔の剣,Attack effect: Slim chance to reduce target's elemental attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属攻を減少,GameTextEN::TX_NA_ITM_EQP_SWD_120_Text,ITM_EQP_SWD_120,SWORD,0,0,0,68,0,0,0,0,17,0,0,11000,2200,SWD_8006
+Kiếm,Kiếm,Makeshift Sword,Kiếm Chắp Vá,ただの剣,"It's not much of a sword,
+but it'll have to do.","Kiếm này chẳng ra gì,
+nhưng đành dùng tạm vậy.",なんの変哲も無い剣,GameTextEN::TX_NA_ITM_EQP_SWD_010_Text,ITM_EQP_SWD_010,SWORD,0,0,0,0,0,0,0,0,0,0,0,0,0,SWD_8000
+Kiếm,Kiếm,Master Rod,Trượng Bậc Thầy,大物捕りの釣り竿,Attack effect: Slim chance to reduce target's speed.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tốc Độ của mục tiêu.,攻撃効果：まれに対象の行動速度減少,GameTextEN::TX_NA_ITM_EQP_SWD_370_Text,ITM_EQP_SWD_370,SWORD,0,0,0,196,0,0,0,0,0,0,57,36000,7200,SWD_8018
+Kiếm,Kiếm,Nameless Sword,Kiếm Vô Danh,無銘の刀,,,,GameTextEN::TX_NA_ITM_EQP_SWD_050_Text,ITM_EQP_SWD_050,SWORD,0,0,0,23,0,0,0,0,0,6,0,2400,480,SWD_8001
+Kiếm,Kiếm,Ogre's Bane,Khắc Tinh Ogre,鬼切丸,,,,GameTextEN::TX_NA_ITM_EQP_SWD_220_Text,ITM_EQP_SWD_220,SWORD,0,0,0,294,0,0,0,0,0,88,0,56000,11200,SWD_8001
+Kiếm,Kiếm,Quartz Blade,Kiếm Thạch Anh,クォーツブレイド,,,,GameTextEN::TX_NA_ITM_EQP_SWD_260_Text,ITM_EQP_SWD_260,SWORD,0,0,0,118,0,70,0,-55,0,0,0,22000,4400,SWD_8019
+Kiếm,Kiếm,Reaper's Blade,Kiếm Tử Thần,死神の太刀,Attack effect: Slim chance to instantly kill target.,Hiệu ứng tấn công: Có xác suất nhỏ hạ gục mục tiêu ngay lập tức.,攻撃効果：まれに対象を即死させる,GameTextEN::TX_NA_ITM_EQP_SWD_430_Text,ITM_EQP_SWD_430,SWORD,0,0,0,119,0,0,0,34,0,0,0,22000,4400,SWD_8011
+Kiếm,Kiếm,Refined Sword,Kiếm Tinh Luyện,エンハンスソード,,,,GameTextEN::TX_NA_ITM_EQP_SWD_110_Text,ITM_EQP_SWD_110,SWORD,0,0,0,107,0,0,0,0,0,0,32,20000,4000,SWD_8000
+Kiếm,Kiếm,Rotted Sword,Kiếm Mục Nát,朽ちた剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_450_Text,ITM_EQP_SWD_450,SWORD,0,0,0,5,0,0,0,0,0,0,0,100,20,SWD_8007
+Kiếm,Kiếm,Sanctum Sword,Kiếm Thánh Điện,聖堂騎士の霊剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_190_Text,ITM_EQP_SWD_190,SWORD,0,0,0,319,0,0,0,0,0,0,98,60000,12000,SWD_8000
+Kiếm,Kiếm,Serpent Slayer,Kiếm Diệt Xà,大蛇殺しの巨剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_330_Text,ITM_EQP_SWD_330,SWORD,0,0,0,420,0,0,0,-75,0,-150,0,80000,16000,SWD_8014
+Kiếm,Kiếm,Silver Sword,Kiếm Bạc,シルバーソード,,,,GameTextEN::TX_NA_ITM_EQP_SWD_070_Text,ITM_EQP_SWD_070,SWORD,0,0,0,59,0,0,0,0,0,0,13,9000,1800,SWD_8000
+Kiếm,Kiếm,Skypiercer,Xuyên Thiên,天斬丸,,,,GameTextEN::TX_NA_ITM_EQP_SWD_280_Text,ITM_EQP_SWD_280,SWORD,0,0,0,320,0,0,0,0,0,50,50,60000,12000,SWD_8001
+Kiếm,Kiếm,Soulsucker,Hấp Hồn Kiếm,魂吸いの妖刀,Attack effect: Recover SP equivalent to 1% of the damage dealt.,Hiệu ứng tấn công: Hồi lượng SP bằng 1% sát thương gây ra.,"攻撃効果：与えたダメージの１％の
+SPを回復する",GameTextEN::TX_NA_ITM_EQP_SWD_440_Text,ITM_EQP_SWD_440,SWORD,0,0,0,199,0,0,0,0,0,0,0,55000,11000,SWD_8009
+Kiếm,Kiếm,Spirit Scimitar,Linh Hồn Loan Đao,精霊の曲剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_390_Text,ITM_EQP_SWD_390,SWORD,0,0,0,52,0,25,0,0,0,0,0,7600,1520,SWD_8002
+Kiếm,Kiếm,Starsplitter,Phá Tinh Kiếm,星砕きの刀,Attack effect: Slim chance to reduce target's physical defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Vật Lý của mục tiêu.,攻撃効果：まれに対象の物防を減少,GameTextEN::TX_NA_ITM_EQP_SWD_250_Text,ITM_EQP_SWD_250,SWORD,0,0,0,296,0,0,0,0,0,91,0,55000,11000,SWD_8008
+Kiếm,Kiếm,Stonesplitter,Phá Thạch Kiếm,石切丸,,,,GameTextEN::TX_NA_ITM_EQP_SWD_160_Text,ITM_EQP_SWD_160,SWORD,0,0,0,184,0,0,0,0,0,56,0,32000,6400,SWD_8001
+Kiếm,Kiếm,Sword of Oaths,Kiếm Thề Nguyện,誓いの霊剣,Attack effect: Slim chance to reduce target's physical attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Vật Lý của mục tiêu.,攻撃効果：まれに対象の物攻を減少,GameTextEN::TX_NA_ITM_EQP_SWD_410_Text,ITM_EQP_SWD_410,SWORD,0,0,0,349,0,0,0,0,104,0,0,65000,13000,SWD_8007
+Kiếm,Kiếm,Sword of the Sands,Sa Kiếm,砂漠民の刀,,,,GameTextEN::TX_NA_ITM_EQP_SWD_010_GST_Text,ITM_EQP_SWD_010_GST,SWORD,0,0,0,5,0,0,0,0,0,0,0,200,40,SWD_8001_GST
+Kiếm,Kiếm,Thief's Sword,Kiếm Đạo Chích,盗賊の剣,,,,GameTextEN::TX_NA_ITM_EQP_SWD_031_Text,ITM_EQP_SWD_031,SWORD,0,0,0,4,0,0,0,0,0,0,0,200,40,SWD_8000
+Kiếm,Kiếm,Warrior's Sword,Kiếm Chiến Binh,ウォリアーソード,,,,GameTextEN::TX_NA_ITM_EQP_SWD_140_Text,ITM_EQP_SWD_140,SWORD,0,0,0,117,0,0,0,0,0,0,35,22000,4400,SWD_8000
+Mũ giáp nhẹ,Mũ giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_HLM_470_Text,ITM_EQP_HLM_470,LIGHT_HELMET,0,0,0,0,10,-4,9,0,0,0,0,400,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_HLM_480_Text,ITM_EQP_HLM_480,LIGHT_HELMET,0,0,0,0,22,-10,20,0,0,0,0,2300,230,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_HLM_490_Text,ITM_EQP_HLM_490,LIGHT_HELMET,0,0,0,0,42,-35,40,0,0,0,0,8300,830,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_HLM_500_Text,ITM_EQP_HLM_500,LIGHT_HELMET,0,0,0,0,66,-55,64,0,0,0,0,13000,1300,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,,,,,,,GameTextEN::TX_NA_ITM_EQP_HLM_510_Text,ITM_EQP_HLM_510,LIGHT_HELMET,0,0,0,-57,70,0,67,0,0,0,0,14000,1400,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Ancient Circlet,Vòng Đầu Cổ Đại,古代のサークレット,,,,GameTextEN::TX_NA_ITM_EQP_HLM_270_Text,ITM_EQP_HLM_270,LIGHT_HELMET,0,0,0,0,41,55,77,0,0,0,0,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Antique Ceremonial Mask,Mặt Nạ Nghi Lễ Cổ,いにしえの儀式面,Equip effect: Recover SP after performing an action.,Hiệu ứng trang bị: Hồi SP sau khi hành động.,装備効果：行動後SP回復,GameTextEN::TX_NA_ITM_EQP_HLM_310_Text,ITM_EQP_HLM_310,LIGHT_HELMET,0,0,0,0,49,0,73,0,0,0,0,14000,2800,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Art of Disguise,Bí Thuật Ngụy Trang,アートオブヴェール,,,,GameTextEN::TX_NA_ITM_EQP_HLM_400_Text,ITM_EQP_HLM_400,LIGHT_HELMET,0,0,0,0,58,0,70,0,0,0,0,15500,3100,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Battle Bandana,Khăn Chiến,バトルバンダナ,,,,GameTextEN::TX_NA_ITM_EQP_HLM_150_Text,ITM_EQP_HLM_150,LIGHT_HELMET,0,0,0,0,19,0,19,0,11,0,0,2600,520,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Black Cap,Mũ Đen,ブラックキャップ,,,,GameTextEN::TX_NA_ITM_EQP_HLM_410_Text,ITM_EQP_HLM_410,LIGHT_HELMET,0,0,0,0,25,0,31,0,22,0,0,5200,1040,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Black Hood,Mũ Trùm Đen,黒いフード,,,,GameTextEN::TX_NA_ITM_EQP_HLM_033_Text,ITM_EQP_HLM_033,LIGHT_HELMET,0,0,0,0,4,0,2,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Bronze Helm,Mũ Trụ Đồng,ブロンズヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_080_Text,ITM_EQP_HLM_080,LIGHT_HELMET,0,0,0,0,18,0,15,0,0,0,0,1600,320,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Cassius,Cassius,カッシウス,,,,GameTextEN::TX_NA_ITM_EQP_HLM_120_Text,ITM_EQP_HLM_120,LIGHT_HELMET,0,0,0,0,20,0,14,0,0,9,0,2100,420,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Cloth Headband,Băng Đô Vải,布のハチマキ,,,,GameTextEN::TX_NA_ITM_EQP_HLM_440_Text,ITM_EQP_HLM_440,LIGHT_HELMET,0,0,0,0,52,0,54,0,0,0,60,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Cloth Hood,Mũ Trùm Vải,布の頭巾,,,,GameTextEN::TX_NA_ITM_EQP_HLM_390_Text,ITM_EQP_HLM_390,LIGHT_HELMET,0,0,0,0,4,0,4,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Cursed Helm,Mũ Trụ Bị Nguyền,呪われた兜,,,,GameTextEN::TX_NA_ITM_EQP_HLM_460_Text,ITM_EQP_HLM_460,LIGHT_HELMET,0,0,0,0,88,0,88,0,0,0,0,33330,6666,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Dazzling Tiara,Vương Miện Lộng Lẫy,絢爛なティアラ,,,,GameTextEN::TX_NA_ITM_EQP_HLM_330_Text,ITM_EQP_HLM_330,LIGHT_HELMET,0,0,0,0,54,0,65,0,0,0,55,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Dragon's Helm,Mũ Trụ Rồng,ドラゴンヘルム,Equip effect: Prevents unconsciousness.,Hiệu ứng trang bị: Miễn nhiễm trạng thái bất tỉnh.,装備効果：気絶の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_HLM_320_Text,ITM_EQP_HLM_320,LIGHT_HELMET,0,0,0,0,69,0,53,0,0,0,0,14000,2800,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Feathered Hat,Mũ Lông Vũ,羽根つき帽子,,,,GameTextEN::TX_NA_ITM_EQP_HLM_090_Text,ITM_EQP_HLM_090,LIGHT_HELMET,0,0,0,0,14,0,17,0,0,0,7,1600,320,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Festival Garland,Vòng Hoa Lễ Hội,祭事の花冠,,,,GameTextEN::TX_NA_ITM_EQP_HLM_050_Text,ITM_EQP_HLM_050,LIGHT_HELMET,0,0,0,0,12,0,18,0,0,0,0,1600,320,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Fighter's Headband,Băng Đô Võ Sĩ,気合のはちまき,,,,GameTextEN::TX_NA_ITM_EQP_HLM_200_Text,ITM_EQP_HLM_200,LIGHT_HELMET,150,0,0,0,37,0,37,0,0,0,0,8300,1660,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Forgotten Hat,Mũ Bị Lãng Quên,廃忘の帽子,,,,GameTextEN::TX_NA_ITM_EQP_HLM_250_Text,ITM_EQP_HLM_250,LIGHT_HELMET,0,0,0,0,51,0,67,0,0,0,0,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Fur Cap,Mũ Lông Thú,毛皮の帽子,,,,GameTextEN::TX_NA_ITM_EQP_HLM_060_Text,ITM_EQP_HLM_060,LIGHT_HELMET,40,0,0,0,15,0,17,0,0,0,0,1900,380,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Gaudy Hat,Mũ Sặc Sỡ,派手派手しい帽子,Equip effect: Become more readily targeted by foes.,Hiệu ứng trang bị: Tăng khả năng bị kẻ địch nhắm đến.,装備効果：敵に狙われやすくなる,GameTextEN::TX_NA_ITM_EQP_HLM_350_Text,ITM_EQP_HLM_350,LIGHT_HELMET,0,0,0,0,53,0,53,0,0,0,0,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Gelid Helm,Mũ Trụ Giá Băng,氷装の兜,Equip effect: Reduces ice damage.,Hiệu ứng trang bị: Giảm sát thương hệ Băng.,装備効果：氷ダメージ減少,GameTextEN::TX_NA_ITM_EQP_HLM_280_Text,ITM_EQP_HLM_280,LIGHT_HELMET,0,0,0,0,21,0,18,0,0,0,0,4200,840,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Gimmick Goggles,Kính Cơ Khí,ギミックゴーグル,,,,GameTextEN::TX_NA_ITM_EQP_HLM_260_Text,ITM_EQP_HLM_260,LIGHT_HELMET,0,0,0,0,65,0,43,0,59,0,0,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Gray Helm,Mũ Trụ Xám,鈍色の兜,,,,GameTextEN::TX_NA_ITM_EQP_HLM_010_Text,ITM_EQP_HLM_010,LIGHT_HELMET,0,0,0,0,4,0,2,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Great Helm,Mũ Trụ Đại,グレートヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_220_Text,ITM_EQP_HLM_220,LIGHT_HELMET,0,0,0,0,59,0,59,0,0,0,49,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Guard's Hat,Mũ Lính Gác,衛兵隊の式帽,Equip effect: Prevents silence.,Hiệu ứng trang bị: Miễn nhiễm câm lặng.,装備効果：沈黙の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_HLM_290_Text,ITM_EQP_HLM_290,LIGHT_HELMET,0,0,0,0,17,0,21,0,0,0,0,2600,520,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Guard's Helm,Mũ Trụ Lính Gác,衛兵の兜,,,,GameTextEN::TX_NA_ITM_EQP_HLM_100_Text,ITM_EQP_HLM_100,LIGHT_HELMET,0,0,0,0,19,0,16,0,0,0,0,1500,300,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Hasty Helm,Mũ Trụ Thần Tốc,スピードヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_160_Text,ITM_EQP_HLM_160,LIGHT_HELMET,0,0,0,0,30,0,24,0,0,0,20,4800,960,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Headgear,Mũ Che Đầu,ヘッドギア,,,,GameTextEN::TX_NA_ITM_EQP_HLM_130_Text,ITM_EQP_HLM_130,LIGHT_HELMET,0,0,0,0,15,0,19,0,9,0,0,2100,420,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Hide Hood,Mũ Trùm Da Thú,獣皮のフード,,,,GameTextEN::TX_NA_ITM_EQP_HLM_070_Text,ITM_EQP_HLM_070,LIGHT_HELMET,0,0,0,0,15,0,15,0,8,0,0,1600,320,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Horned Helm,Mũ Trụ Có Sừng,ホーンドヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_170_Text,ITM_EQP_HLM_170,LIGHT_HELMET,100,0,0,0,31,0,25,0,0,0,0,5000,1000,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Imperial Helm,Mũ Trụ Đế Chế,インペリアルヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_240_Text,ITM_EQP_HLM_240,LIGHT_HELMET,0,0,0,0,71,0,59,0,0,0,0,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Knight's Helm,Mũ Trụ Hiệp Sĩ,ナイトヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_190_Text,ITM_EQP_HLM_190,LIGHT_HELMET,0,0,0,0,35,0,29,0,0,0,0,5400,1080,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Leather Hat,Mũ Da,皮の帽子,,,,GameTextEN::TX_NA_ITM_EQP_HLM_021_Text,ITM_EQP_HLM_021,LIGHT_HELMET,0,0,0,0,2,0,4,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Leather Helm,Mũ Trụ Da,ラバーヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_040_Text,ITM_EQP_HLM_040,LIGHT_HELMET,0,0,0,0,8,0,8,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Lighthouse Keeper's Bandana,Khăn Hải Đăng,灯台守のバンダナ,,,,GameTextEN::TX_NA_ITM_EQP_HLM_360_Text,ITM_EQP_HLM_360,LIGHT_HELMET,0,0,0,0,46,0,58,0,0,54,0,13000,2600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Mechanical Top Hat,Mũ Ống Cơ Khí,機械仕掛けのトップハット,,,,GameTextEN::TX_NA_ITM_EQP_HLM_370_Text,ITM_EQP_HLM_370,LIGHT_HELMET,0,0,0,0,75,0,62,65,0,0,0,15500,3100,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Mermaid Circlet,Vương Miện Mỹ Nhân Ngư,人魚姫のサークレット,,,,GameTextEN::TX_NA_ITM_EQP_HLM_530_Text,ITM_EQP_HLM_530,LIGHT_HELMET,0,0,0,0,55,65,82,0,0,0,0,18000,3600,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Ordinary Hat,Mũ Thường,ハット,,,,GameTextEN::TX_NA_ITM_EQP_HLM_031_Text,ITM_EQP_HLM_031,LIGHT_HELMET,0,0,0,0,2,0,3,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Pathfinder's Hat,Mũ Nhà Thám Hiểm,開拓者のハット,,,,GameTextEN::TX_NA_ITM_EQP_HLM_380_Text,ITM_EQP_HLM_380,LIGHT_HELMET,0,0,0,0,4,0,4,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Peddler's Feathered Cap,Mũ Lông Kẻ Bán Rong,行商人の羽つき帽子,Equip effect: Prevents sleep.,Hiệu ứng trang bị: Miễn nhiễm trạng thái ngủ.,装備効果：睡眠の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_HLM_340_Text,ITM_EQP_HLM_340,LIGHT_HELMET,0,0,0,0,14,0,20,0,0,0,0,2100,420,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Platinum Helm,Mũ Trụ Bạch Kim,プラチナヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_230_Text,ITM_EQP_HLM_230,LIGHT_HELMET,300,0,0,0,43,0,35,0,0,0,0,12000,2400,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Pointed Hat,Mũ Chóp Nhọn,とんがり帽子,,,,GameTextEN::TX_NA_ITM_EQP_HLM_110_Text,ITM_EQP_HLM_110,LIGHT_HELMET,0,0,0,0,12,9,22,0,0,0,0,2100,420,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Royal Guard's Helm,Mũ Trụ Cận Vệ Hoàng Gia,ロイヤルガードヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_420_Text,ITM_EQP_HLM_420,LIGHT_HELMET,0,0,0,0,64,0,64,0,0,58,0,15500,3100,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Sanctum Knight's Helm,Mũ Trụ Thánh Kỵ Sĩ,聖堂騎士の兜,,,,GameTextEN::TX_NA_ITM_EQP_HLM_032_Text,ITM_EQP_HLM_032,LIGHT_HELMET,0,0,0,0,10,0,5,0,0,0,0,200,40,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Silent Bandana,Khăn Kháng Âm,静寂のバンダナ,Equip effect: Prevents terror.,Hiệu ứng trang bị: Miễn nhiễm trạng thái kinh hãi.,装備効果：恐怖の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_HLM_300_Text,ITM_EQP_HLM_300,LIGHT_HELMET,0,0,0,0,26,0,33,0,0,0,0,5400,1080,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Silver Hairpiece,Trâm Tóc Bạc,銀のかみかざり,,,,GameTextEN::TX_NA_ITM_EQP_HLM_140_Text,ITM_EQP_HLM_140,LIGHT_HELMET,0,0,0,0,14,0,22,0,0,0,0,2300,460,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Skull Helm,Mũ Trụ Đầu Lâu,スカルヘルム,,,,GameTextEN::TX_NA_ITM_EQP_HLM_180_Text,ITM_EQP_HLM_180,LIGHT_HELMET,0,0,0,0,20,22,36,0,0,0,0,5200,1040,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Soldier's Hat,Mũ Lính,陣笠,,,,GameTextEN::TX_NA_ITM_EQP_HLM_450_Text,ITM_EQP_HLM_450,LIGHT_HELMET,0,0,0,0,38,0,38,0,0,0,36,8500,1700,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Starlight Hat,Mũ Ánh Sao,星屑の帽子,,,,GameTextEN::TX_NA_ITM_EQP_HLM_210_Text,ITM_EQP_HLM_210,LIGHT_HELMET,0,0,0,0,33,0,41,0,0,0,0,8300,1660,None
+Mũ giáp nhẹ,Mũ giáp nhẹ,Worker's Helmet,Mũ Bảo Hộ Lao Động,作業用ヘルメット,,,,GameTextEN::TX_NA_ITM_EQP_HLM_430_Text,ITM_EQP_HLM_430,LIGHT_HELMET,0,0,0,0,30,0,26,0,0,20,0,5200,1040,None
+Phụ kiện,Phụ kiện,Alluring Ribbon,Ruy Băng Mê Hoặc,引寄せのリボン,Equip effect: Raises the chances of encountering enemies.,Hiệu ứng trang bị: Tăng khả năng gặp kẻ địch.,装備効果：敵との遭遇率が上がる,GameTextEN::TX_NA_ITM_EQP_ACS_041_Text,ITM_EQP_ACS_041,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Alpione's Amulet,Bùa Alpione,アルピオネのお守り,Equip effect: Deal more damage when your HP is low.,Hiệu ứng trang bị: Gây nhiều sát thương hơn khi HP thấp.,"装備効果：HPが低いほど攻撃の
+ダメージが増加する",GameTextEN::TX_NA_ITM_EQP_ACS_730_Text,ITM_EQP_ACS_730,ACCESSORY,1200,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Ancient Necklace,Dây Chuyền Cổ Đại,古びた首飾り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_760_Text,ITM_EQP_ACS_760,ACCESSORY,30,0,0,0,0,0,0,0,0,0,0,500,100,None
+Phụ kiện,Phụ kiện,Angel's Ring,Nhẫn Thiên Thần,天使のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_770_Text,ITM_EQP_ACS_770,ACCESSORY,0,0,0,0,0,0,20,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Antidote Stone,Đá Giải Độc,猛毒耐性ストーン,Equip effect: Prevents poison.,Hiệu ứng trang bị: Miễn nhiễm trạng thái độc.,装備効果：毒の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_580_Text,ITM_EQP_ACS_580,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Articulate Stone,Đá Hùng Biện,沈黙耐性ストーン,Equip effect: Prevents silence.,Hiệu ứng trang bị: Miễn nhiễm trạng thái câm lặng.,装備効果：沈黙の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_600_Text,ITM_EQP_ACS_600,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Beastly Scarf,Khăn Quái Thú,獣のスカーフ,Equip effect: Recover HP after performing an action.,Hiệu ứng trang bị: Hồi HP sau khi hành động.,装備効果：行動後HP回復,GameTextEN::TX_NA_ITM_EQP_ACS_021_Text,ITM_EQP_ACS_021,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Blazon of Protection,Huy Hiệu Bảo Hộ,守備の紋章,,,,GameTextEN::TX_NA_ITM_EQP_ACS_260_Text,ITM_EQP_ACS_260,ACCESSORY,0,0,0,0,30,0,30,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Blessing in Disguise,Phúc Trong Họa,呪詛返しの首輪,Equip effect: Turns negative values on other equipment into positive values.,Hiệu ứng trang bị: Biến chỉ số âm của trang bị khác thành chỉ số dương.,"装備効果：他の装備のマイナス数値
+がプラス数値になる",GameTextEN::TX_NA_ITM_EQP_ACS_890_Text,ITM_EQP_ACS_890,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,30000,6000,None
+Phụ kiện,Phụ kiện,Blizzard Amulet,Bùa Bão Tuyết,氷結のアミュレット,Equip effect: Greatly reduces ice damage.,Hiệu ứng trang bị: Giảm mạnh sát thương hệ Băng.,装備効果：氷ダメージ減少（大）,GameTextEN::TX_NA_ITM_EQP_ACS_470_Text,ITM_EQP_ACS_470,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,13500,2700,None
+Phụ kiện,Phụ kiện,Bright Stone,Minh Thạch,暗闇耐性ストーン,Equip effect: Prevents blindness.,Hiệu ứng trang bị: Miễn nhiễm trạng thái mù.,装備効果：暗闇の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_610_Text,ITM_EQP_ACS_610,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Brooch of Joy,Trâm Hoan Hỉ,幸せのブローチ,"Equip effect: Receive additional EXP
+and JP.","Hiệu ứng trang bị: Nhận thêm EXP
+và JP.",装備効果：EXP/JP獲得量＋,GameTextEN::TX_NA_ITM_EQP_ACS_061_Text,ITM_EQP_ACS_061,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Cait Powder,Bột Cait,キャットリンのまたたび,Equip effect: Raises the chances of encountering caits.,Hiệu ứng trang bị: Tăng khả năng gặp Cait.,"装備効果：キャットリンと遭遇
+しやすくなる",GameTextEN::TX_NA_ITM_EQP_ACS_660_Text,ITM_EQP_ACS_660,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Calming Stone,Đá Trấn Tĩnh,恐怖耐性ストーン,Equip effect: Prevents terror.,Hiệu ứng trang bị: Miễn nhiễm trạng thái kinh hãi.,装備効果：恐怖の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_620_Text,ITM_EQP_ACS_620,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Champion's Belt,Đai Nhà Vô Địch,チャンピオンベルト,Equip effect: Prevents surprise attacks from enemies.,Hiệu ứng trang bị: Ngăn kẻ địch tấn công bất ngờ.,装備効果：敵から不意打ちされない,GameTextEN::TX_NA_ITM_EQP_ACS_750_Text,ITM_EQP_ACS_750,ACCESSORY,0,0,0,100,0,0,0,0,0,100,0,20000,4000,None
+Phụ kiện,Phụ kiện,Charm of Compassion,Bùa Lòng Trắc Ẩn,思いやりのお守り,Equip effect: Recover more HP and SP when healed.,Hiệu ứng trang bị: Hồi thêm HP và SP khi được chữa trị.,"装備効果：HP/SPの回復効果を
+受けたときの回復量が増加する",GameTextEN::TX_NA_ITM_EQP_ACS_720_Text,ITM_EQP_ACS_720,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Clarity Stone,Đá Minh Mẫn,混乱耐性ストーン,Equip effect: Prevents confusion.,Hiệu ứng trang bị: Miễn nhiễm trạng thái lú lẫn.,装備効果：混乱の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_630_Text,ITM_EQP_ACS_630,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Coat of Arms,Huy Hiệu Gia Tộc,或る国の紋章,,,,GameTextEN::TX_NA_ITM_EQP_ACS_820_Text,ITM_EQP_ACS_820,ACCESSORY,0,0,0,0,100,0,100,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Conscious Stone,Đá Tỉnh Thức,気絶耐性ストーン,Equip effect: Prevents unconsciousness.,Hiệu ứng trang bị: Miễn nhiễm trạng thái bất tỉnh.,装備効果：気絶の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_640_Text,ITM_EQP_ACS_640,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Crescent Moon Necklace,Dây Chuyền Trăng Khuyết,三日月の首飾り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_970_Text,ITM_EQP_ACS_970,ACCESSORY,0,0,0,0,0,0,0,15,15,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Critical Bracelet,Vòng Tay Chí Mạng,会心のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_210_Text,ITM_EQP_ACS_210,ACCESSORY,0,0,0,0,0,0,0,0,0,50,0,6500,1300,None
+Phụ kiện,Phụ kiện,Critical Earring,Bông Tai Chí Mạng,会心のピアス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_420_Text,ITM_EQP_ACS_420,ACCESSORY,0,0,0,0,0,0,0,0,0,10,0,280,56,None
+Phụ kiện,Phụ kiện,Critical Necklace,Dây Chuyền Chí Mạng,会心のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_130_Text,ITM_EQP_ACS_130,ACCESSORY,0,0,0,0,0,0,0,0,0,80,0,20000,4000,None
+Phụ kiện,Phụ kiện,Critical Ring,Nhẫn Chí Mạng,会心のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_330_Text,ITM_EQP_ACS_330,ACCESSORY,0,0,0,0,0,0,0,0,0,20,0,3000,600,None
+Phụ kiện,Phụ kiện,Dark Amulet,Bùa Bóng Tối,闇のアミュレット,Equip effect: Reduces dark damage.,Hiệu ứng trang bị: Giảm sát thương hệ Bóng Tối.,装備効果：闇ダメージ減少,GameTextEN::TX_NA_ITM_EQP_ACS_560_Text,ITM_EQP_ACS_560,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6400,1280,None
+Phụ kiện,Phụ kiện,Divine Necklace,Dây Chuyền Thần Thánh,依り代の首飾り,Equip effect: Prevents petrification.,Hiệu ứng trang bị: Miễn nhiễm trạng thái hóa đá.,装備効果：石化の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_930_Text,ITM_EQP_ACS_930,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,8000,1600,None
+Phụ kiện,Phụ kiện,Dragon's Scarf,Khăn Choàng Rồng,竜のスカーフ,Equip effect: Recover SP after performing an action.,Hiệu ứng trang bị: Hồi SP sau khi hành động.,装備効果：行動後SP回復,GameTextEN::TX_NA_ITM_EQP_ACS_011_Text,ITM_EQP_ACS_011,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Elemental Augmentor,Bùa Tăng Cường Nguyên Tố,エレメントブースター,,,,GameTextEN::TX_NA_ITM_EQP_ACS_250_Text,ITM_EQP_ACS_250,ACCESSORY,0,0,0,0,0,100,0,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Elemental Ward,Bùa Phòng Ngự Nguyên Tố,エレメントガーディアン,,,,GameTextEN::TX_NA_ITM_EQP_ACS_350_Text,ITM_EQP_ACS_350,ACCESSORY,0,0,0,0,0,0,65,0,0,0,0,3000,600,None
+Phụ kiện,Phụ kiện,Empowering Bracelet,Vòng Tay Cường Hóa,体力のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_150_Text,ITM_EQP_ACS_150,ACCESSORY,500,0,0,0,0,0,0,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Empowering Earring,Bông Tai Cường Hóa,体力のピアス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_360_Text,ITM_EQP_ACS_360,ACCESSORY,50,0,0,0,0,0,0,0,0,0,0,280,56,None
+Phụ kiện,Phụ kiện,Empowering Necklace,Dây Chuyền Cường Hóa,体力のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_070_Text,ITM_EQP_ACS_070,ACCESSORY,1000,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Empowering Ring,Nhẫn Cường Hóa,体力のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_270_Text,ITM_EQP_ACS_270,ACCESSORY,200,0,0,0,0,0,0,0,0,0,0,3000,600,None
+Phụ kiện,Phụ kiện,Enfeebling Amulet,Bùa Làm Suy Yếu,弱化増しのお守り,Equip effect: Extends duration of inflicted enfeebling effects by 1 turn.,Hiệu ứng trang bị: Kéo dài hiệu ứng suy yếu gây lên mục tiêu thêm 1 lượt.,"装備効果：弱化効果を与えたとき
+その効果ターン数を＋１する",GameTextEN::TX_NA_ITM_EQP_ACS_700_Text,ITM_EQP_ACS_700,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Enlightening Bracelet,Vòng Tay Khai Sáng,察知のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_190_Text,ITM_EQP_ACS_190,ACCESSORY,0,0,0,0,0,0,0,0,50,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Enlightening Earring,Bông Tai Khai Sáng,察知のピアス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_400_Text,ITM_EQP_ACS_400,ACCESSORY,0,0,0,0,0,0,0,0,10,0,0,280,56,None
+Phụ kiện,Phụ kiện,Enlightening Necklace,Dây Chuyền Khai Sáng,察知のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_110_Text,ITM_EQP_ACS_110,ACCESSORY,0,0,0,0,0,0,0,0,80,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Enlightening Ring,Nhẫn Khai Sáng,察知のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_310_Text,ITM_EQP_ACS_310,ACCESSORY,0,0,0,0,0,0,0,0,20,0,0,3000,600,None
+Phụ kiện,Phụ kiện,EXP Augmentor,Bùa Tăng EXP,EXPブースター,Equip effect: Receive additional EXP.,Hiệu ứng trang bị: Nhận thêm EXP.,装備効果：EXP獲得量＋,GameTextEN::TX_NA_ITM_EQP_ACS_050_Text,ITM_EQP_ACS_050,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Eye of Calamity,Nhãn Tai Ương,災禍の魔眼,Equip effect: Reduces physical attack and elemental attack at start of battle.,Hiệu ứng trang bị: Giảm Tấn Công Vật Lý và Tấn Công Nguyên Tố khi bắt đầu trận chiến.,"装備効果：バトル開始時に
+物攻/属攻ダウンの効果を付与する",GameTextEN::TX_NA_ITM_EQP_ACS_910_Text,ITM_EQP_ACS_910,ACCESSORY,0,0,0,120,0,120,0,0,0,0,0,15000,3000,None
+Phụ kiện,Phụ kiện,Falcon Ring,Nhẫn Chim Ưng,ハヤブサのリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_780_Text,ITM_EQP_ACS_780,ACCESSORY,0,0,0,0,0,0,0,0,10,0,10,3000,600,None
+Phụ kiện,Phụ kiện,Fang of Ferocity,Nanh Hung Tợn,進化の重牙,Equip effect: Raises damage dealt by boosted attacks.,Hiệu ứng trang bị: Tăng sát thương của các đòn đánh được tăng cường.,"装備効果：ブーストしたときの
+攻撃のダメージが増加する",GameTextEN::TX_NA_ITM_EQP_ACS_960_Text,ITM_EQP_ACS_960,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,8000,1600,None
+Phụ kiện,Phụ kiện,Finisher's Claws,Vuốt Đoạt Mệnh,一気呵成の爪,Equip effect: Raises damage dealt by critical hits.,Hiệu ứng trang bị: Tăng sát thương chí mạng.,"装備効果：クリティカルが発生した
+ときのダメージが増加する",GameTextEN::TX_NA_ITM_EQP_ACS_940_Text,ITM_EQP_ACS_940,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,8000,1600,None
+Phụ kiện,Phụ kiện,Fire Amulet,Bùa Lửa,火のアミュレット,Equip effect: Reduces fire damage.,Hiệu ứng trang bị: Giảm sát thương hệ Lửa.,装備効果：火ダメージ減少,GameTextEN::TX_NA_ITM_EQP_ACS_520_Text,ITM_EQP_ACS_520,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6400,1280,None
+Phụ kiện,Phụ kiện,Foreign Ring,Nhẫn Ngoại Quốc,異邦の指輪,Equip effect: Raises critical rate at start of battle.,Hiệu ứng trang bị: Tăng Tỷ Lệ Chí Mạng khi bắt đầu trận chiến.,"装備効果：バトル開始時に
+クリティカルアップの効果を付与する",GameTextEN::TX_NA_ITM_EQP_ACS_870_Text,ITM_EQP_ACS_870,ACCESSORY,0,0,0,0,0,0,0,0,0,35,0,6500,1300,None
+Phụ kiện,Phụ kiện,Gale Feather,Lông Vũ Cuồng Phong,疾風の紅羽根,Equip effect: Raises speed and evasion at start of battle.,Hiệu ứng trang bị: Tăng Tốc Độ và Né Tránh khi bắt đầu trận chiến.,"装備効果：バトル開始時に
+速度/回避アップの効果を付与する",GameTextEN::TX_NA_ITM_EQP_ACS_900_Text,ITM_EQP_ACS_900,ACCESSORY,0,0,0,0,0,0,0,0,120,0,0,15000,3000,None
+Phụ kiện,Phụ kiện,Gleaming Amulet,Bùa Tỏa Sáng,閃光のアミュレット,Equip effect: Greatly reduces light damage.,Hiệu ứng trang bị: Giảm mạnh sát thương hệ Ánh Sáng.,装備効果：光ダメージ減少（大）,GameTextEN::TX_NA_ITM_EQP_ACS_510_Text,ITM_EQP_ACS_510,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,13500,2700,None
+Phụ kiện,Phụ kiện,Guardian Amulet,Bùa Hộ Vệ,ガーディアンベルト,,,,GameTextEN::TX_NA_ITM_EQP_ACS_340_Text,ITM_EQP_ACS_340,ACCESSORY,0,0,0,0,65,0,0,0,0,0,0,3000,600,None
+Phụ kiện,Phụ kiện,Hand-Sewn Gloves,Găng Khâu Tay,手縫いの手袋,Equip effect: Raises elemental defense at start of battle.,Hiệu ứng trang bị: Tăng Phòng Thủ Nguyên Tố khi bắt đầu trận chiến.,"装備効果：バトル開始時に
+属防アップの効果を付与する",GameTextEN::TX_NA_ITM_EQP_ACS_920_Text,ITM_EQP_ACS_920,ACCESSORY,0,0,0,0,0,0,60,0,0,0,0,2000,400,None
+Phụ kiện,Phụ kiện,Ice Amulet,Bùa Băng,氷のアミュレット,Equip effect: Reduces ice damage.,Hiệu ứng trang bị: Giảm sát thương hệ Băng.,装備効果：氷ダメージ減少,GameTextEN::TX_NA_ITM_EQP_ACS_530_Text,ITM_EQP_ACS_530,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6400,1280,None
+Phụ kiện,Phụ kiện,Inferno Amulet,Bùa Địa Ngục,火炎のアミュレット,Equip effect: Greatly reduces fire damage.,Hiệu ứng trang bị: Giảm mạnh sát thương hệ Lửa.,装備効果：火ダメージ減少（大）,GameTextEN::TX_NA_ITM_EQP_ACS_460_Text,ITM_EQP_ACS_460,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,13500,2700,None
+Phụ kiện,Phụ kiện,Jade Ring,Nhẫn Ngọc Bích,翠玉の指輪,,,,GameTextEN::TX_NA_ITM_EQP_ACS_880_Text,ITM_EQP_ACS_880,ACCESSORY,100,0,0,0,0,0,0,0,0,0,0,3000,600,None
+Phụ kiện,Phụ kiện,JP Augmentor,Bùa Tăng JP,JPブースター,Equip effect: Receive additional JP.,Hiệu ứng trang bị: Nhận thêm JP.,装備効果：JP獲得量＋,GameTextEN::TX_NA_ITM_EQP_ACS_060_Text,ITM_EQP_ACS_060,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Laila's Amulet,Bùa Hộ Mệnh Của Laila,ライラのお守り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_800_Text,ITM_EQP_ACS_800,ACCESSORY,0,0,0,0,0,100,0,0,100,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Librarian's Amulet,Bùa Hộ Mệnh Thủ Thư,司書のお守り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_740_Text,ITM_EQP_ACS_740,ACCESSORY,0,0,0,0,0,0,120,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Light Amulet,Bùa Ánh Sáng,光のアミュレット,Equip effect: Reduces light damage.,Hiệu ứng trang bị: Giảm sát thương hệ Ánh Sáng.,装備効果：光ダメージ減少,GameTextEN::TX_NA_ITM_EQP_ACS_570_Text,ITM_EQP_ACS_570,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6400,1280,None
+Phụ kiện,Phụ kiện,Lightning Amulet,Bùa Sấm Sét,雷のアミュレット,Equip effect: Reduces lightning damage.,Hiệu ứng trang bị: Giảm sát thương hệ Sét.,装備効果：雷ダメージ減少,GameTextEN::TX_NA_ITM_EQP_ACS_550_Text,ITM_EQP_ACS_550,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6400,1280,None
+Phụ kiện,Phụ kiện,Melia's Amulet,Bùa Hộ Mệnh Của Melia,メリアのお守り,Equip effect: Recover HP and SP after performing an action.,Hiệu ứng trang bị: Hồi HP và SP sau khi hành động.,装備効果：行動後HP/SP回復,GameTextEN::TX_NA_ITM_EQP_ACS_680_Text,ITM_EQP_ACS_680,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Mental Belt,Đai Tinh Thần,メンタルベルト,,,,GameTextEN::TX_NA_ITM_EQP_ACS_230_Text,ITM_EQP_ACS_230,ACCESSORY,0,0,0,0,0,65,50,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Mighty Belt,Đai Sức Mạnh,パワーベルト,,,,GameTextEN::TX_NA_ITM_EQP_ACS_240_Text,ITM_EQP_ACS_240,ACCESSORY,0,0,0,50,0,0,0,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Mikka's Amulet,Bùa Hộ Mệnh Của Mikka,ミッカのお守り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_790_Text,ITM_EQP_ACS_790,ACCESSORY,0,0,0,0,100,0,0,100,0,0,100,20000,4000,None
+Phụ kiện,Phụ kiện,Moonshell Bracelet,Vòng Tay Vỏ Sò Ánh Trăng,月白貝のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_990_Text,ITM_EQP_ACS_990,ACCESSORY,0,0,0,0,0,0,0,0,0,35,0,7200,1440,None
+Phụ kiện,Phụ kiện,Moonshell Necklace,Dây Chuyền Vỏ Sò Ánh Trăng,月白貝のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_980_Text,ITM_EQP_ACS_980,ACCESSORY,0,0,0,0,0,0,0,0,0,0,35,7200,1440,None
+Phụ kiện,Phụ kiện,Octopuff Pot,Bình Nhử Octopuff,オクトリンのたこつぼ,Equip effect: Raises the chances of encountering octopuffs.,Hiệu ứng trang bị: Tăng khả năng gặp bạch tuộc phồng.,"装備効果：オクトリンと遭遇
+しやすくなる",GameTextEN::TX_NA_ITM_EQP_ACS_670_Text,ITM_EQP_ACS_670,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Physical Belt,Đai Thể Chất,フィジカルベルト,,,,GameTextEN::TX_NA_ITM_EQP_ACS_220_Text,ITM_EQP_ACS_220,ACCESSORY,0,0,0,65,50,0,0,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Prosperity Charm,Bùa Thịnh Vượng,繁盛のお守り,Equip effect: Receive additional leaves (➓) at the end of battle.,Hiệu ứng trang bị: Nhận thêm Lá (➓) khi kết thúc trận chiến.,"装備効果：バトル終了時の
+獲得金額（➓）が増加する",GameTextEN::TX_NA_ITM_EQP_ACS_710_Text,ITM_EQP_ACS_710,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Protective Bracelet,Vòng Tay Bảo Hộ,守護のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_170_Text,ITM_EQP_ACS_170,ACCESSORY,0,0,0,0,50,0,50,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Protective Earring,Bông Tai Bảo Hộ,守護のピアス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_380_Text,ITM_EQP_ACS_380,ACCESSORY,0,0,0,0,10,0,10,0,0,0,0,280,56,None
+Phụ kiện,Phụ kiện,Protective Necklace,Dây Chuyền Bảo Hộ,守護のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_090_Text,ITM_EQP_ACS_090,ACCESSORY,0,0,0,0,80,0,80,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Protective Ring,Nhẫn Bảo Hộ,守護のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_290_Text,ITM_EQP_ACS_290,ACCESSORY,0,0,0,0,20,0,20,0,0,0,0,3000,600,None
+Phụ kiện,Phụ kiện,Rosary of Redemption,Tràng Hạt Chuộc Tội,贖罪のロザリオ,,,,GameTextEN::TX_NA_ITM_EQP_ACS_830_Text,ITM_EQP_ACS_830,ACCESSORY,0,0,0,-60,0,0,0,0,0,-60,0,3000,600,None
+Phụ kiện,Phụ kiện,Scarlet Stone of Protection,Hồng Thạch Hộ Mệnh,緋石の守り,Equip effect: Recover SP after performing an action.,Hiệu ứng trang bị: Hồi SP sau khi hành động.,装備効果：行動後SP回復,GameTextEN::TX_NA_ITM_EQP_ACS_840_Text,ITM_EQP_ACS_840,ACCESSORY,0,0,0,0,0,0,30,0,0,0,0,25000,5000,None
+Phụ kiện,Phụ kiện,Shadowsage Necklace,Dây Chuyền Hiền Giả Bóng Tối,夜智の首飾り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_860_Text,ITM_EQP_ACS_860,ACCESSORY,0,0,0,0,0,40,0,0,0,0,0,4700,940,None
+Phụ kiện,Phụ kiện,Silver Locket,Mặt Dây Chuyền Bạc,シルバーロケット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_440_Text,ITM_EQP_ACS_440,ACCESSORY,0,0,0,0,0,10,0,0,0,0,0,1800,360,None
+Phụ kiện,Phụ kiện,Sisters' Amulet,Bùa Hai Chị Em,姉妹のお守り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_810_Text,ITM_EQP_ACS_810,ACCESSORY,0,0,0,0,0,0,0,0,0,100,100,20000,4000,None
+Phụ kiện,Phụ kiện,Sprightly Bracelet,Vòng Tay Nhanh Nhẹn,俊敏のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_200_Text,ITM_EQP_ACS_200,ACCESSORY,0,0,0,0,0,0,0,0,0,0,50,6500,1300,None
+Phụ kiện,Phụ kiện,Sprightly Earring,Bông Tai Nhanh Nhẹn,俊敏のピアス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_410_Text,ITM_EQP_ACS_410,ACCESSORY,0,0,0,0,0,0,0,0,0,0,10,280,56,None
+Phụ kiện,Phụ kiện,Sprightly Necklace,Dây Chuyền Nhanh Nhẹn,俊敏のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_120_Text,ITM_EQP_ACS_120,ACCESSORY,0,0,0,0,0,0,0,0,0,0,80,20000,4000,None
+Phụ kiện,Phụ kiện,Sprightly Ring,Nhẫn Nhanh Nhẹn,俊敏のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_320_Text,ITM_EQP_ACS_320,ACCESSORY,0,0,0,0,0,0,0,0,0,0,20,3000,600,None
+Phụ kiện,Phụ kiện,Spurning Ribbon,Ruy Băng Xua Đuổi,シャットアウトリボン,Equip effect: Wards off all enemy encounters.,Hiệu ứng trang bị: Ngăn mọi cuộc chạm trán với kẻ địch.,装備効果：敵と遭遇しなくなる,GameTextEN::TX_NA_ITM_EQP_ACS_031_Text,ITM_EQP_ACS_031,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Stimulating Bracelet,Vòng Tay Kích Thích,精神のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_160_Text,ITM_EQP_ACS_160,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Stimulating Earring,Bông Tai Kích Thích,精神のピアス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_370_Text,ITM_EQP_ACS_370,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,280,56,None
+Phụ kiện,Phụ kiện,Stimulating Necklace,Dây Chuyền Kích Thích,精神のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_080_Text,ITM_EQP_ACS_080,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Stimulating Ring,Nhẫn Kích Thích,精神のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_280_Text,ITM_EQP_ACS_280,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,3000,600,None
+Phụ kiện,Phụ kiện,Stone of Truth,Đá Chân Lý,真理の秘石,Equip effect: Grants permanent spell intensity boost at start of battle.,Hiệu ứng trang bị: Tăng uy lực phép thuật vĩnh viễn khi bắt đầu trận chiến.,"装備効果：バトル開始時に永続する
+大魔法化の効果を付与する",GameTextEN::TX_NA_ITM_EQP_ACS_950_Text,ITM_EQP_ACS_950,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,8000,1600,None
+Phụ kiện,Phụ kiện,Tattered Shoes,Giày Rách,ボロボロの靴,,,,GameTextEN::TX_NA_ITM_EQP_ACS_140_Text,ITM_EQP_ACS_140,ACCESSORY,0,0,0,0,2,0,2,0,0,0,0,150,30,None
+Phụ kiện,Phụ kiện,Tempest Amulet,Bùa Cuồng Phong,竜巻のアミュレット,Equip effect: Greatly reduces wind damage.,Hiệu ứng trang bị: Giảm mạnh sát thương hệ Gió.,装備効果：風ダメージ減少（大）,GameTextEN::TX_NA_ITM_EQP_ACS_480_Text,ITM_EQP_ACS_480,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,13500,2700,None
+Phụ kiện,Phụ kiện,Thunderstorm Amulet,Bùa Dông Sét,稲妻のアミュレット,Equip effect: Greatly reduces lightning damage.,Hiệu ứng trang bị: Giảm mạnh sát thương hệ Sét.,装備効果：雷ダメージ減少（大）,GameTextEN::TX_NA_ITM_EQP_ACS_490_Text,ITM_EQP_ACS_490,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,13500,2700,None
+Phụ kiện,Phụ kiện,Traveler's Charm,Bùa Lữ Khách,旅のお守り,,,,GameTextEN::TX_NA_ITM_EQP_ACS_430_Text,ITM_EQP_ACS_430,ACCESSORY,30,0,0,0,5,0,0,0,0,0,0,150,30,None
+Phụ kiện,Phụ kiện,Unerring Bracelet,Vòng Tay Bách Phát,狙撃のブレスレット,,,,GameTextEN::TX_NA_ITM_EQP_ACS_180_Text,ITM_EQP_ACS_180,ACCESSORY,0,0,0,0,0,0,0,50,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Unerring Earring,Bông Tai Bách Phát,狙撃のピアス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_390_Text,ITM_EQP_ACS_390,ACCESSORY,0,0,0,0,0,0,0,10,0,0,0,280,56,None
+Phụ kiện,Phụ kiện,Unerring Necklace,Dây Chuyền Bách Phát,狙撃のネックレス,,,,GameTextEN::TX_NA_ITM_EQP_ACS_100_Text,ITM_EQP_ACS_100,ACCESSORY,0,0,0,0,0,0,0,80,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Unerring Ring,Nhẫn Bách Phát,狙撃のリング,,,,GameTextEN::TX_NA_ITM_EQP_ACS_300_Text,ITM_EQP_ACS_300,ACCESSORY,0,0,0,0,0,0,0,20,0,0,0,3000,600,None
+Phụ kiện,Phụ kiện,Victory Ring,Nhẫn Chiến Thắng,勝利を呼ぶ指輪,Equip effect: Raises physical attack at start of battle.,Hiệu ứng trang bị: Tăng Tấn Công Vật Lý khi bắt đầu trận chiến.,"装備効果：バトル開始時に
+物攻アップの効果を付与する",GameTextEN::TX_NA_ITM_EQP_ACS_690_Text,ITM_EQP_ACS_690,ACCESSORY,0,0,0,20,0,0,0,0,0,0,0,20000,4000,None
+Phụ kiện,Phụ kiện,Vivifying Stone,Sinh Mệnh Thạch,即死耐性ストーン,Equip effect: Prevents instant death.,Hiệu ứng trang bị: Miễn nhiễm tử vong tức thì.,装備効果：即死の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_650_Text,ITM_EQP_ACS_650,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Void Amulet,Bùa Hư Không,宵闇のアミュレット,Equip effect: Greatly reduces dark damage.,Hiệu ứng trang bị: Giảm mạnh sát thương hệ Bóng Tối.,装備効果：闇ダメージ減少（大）,GameTextEN::TX_NA_ITM_EQP_ACS_500_Text,ITM_EQP_ACS_500,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,13500,2700,None
+Phụ kiện,Phụ kiện,Wakeful Stone,Đá Tỉnh Táo,睡眠耐性ストーン,Equip effect: Prevents sleep.,Hiệu ứng trang bị: Miễn nhiễm trạng thái ngủ.,装備効果：睡眠の効果を防ぐ,GameTextEN::TX_NA_ITM_EQP_ACS_590_Text,ITM_EQP_ACS_590,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,7200,1440,None
+Phụ kiện,Phụ kiện,Warding Necklace,Hộ Tâm Liên,魔よけの首飾り,Equip effect: Become less readily targeted by foes.,Hiệu ứng trang bị: Giảm khả năng bị kẻ địch nhắm đến.,装備効果：敵に狙われにくくなる,GameTextEN::TX_NA_ITM_EQP_ACS_850_Text,ITM_EQP_ACS_850,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6500,1300,None
+Phụ kiện,Phụ kiện,Wargod's Talisman,Bùa Võ Thần,戦神の護符,,,,GameTextEN::TX_NA_ITM_EQP_ACS_450_Text,ITM_EQP_ACS_450,ACCESSORY,0,0,0,10,0,0,0,0,0,0,0,1800,360,None
+Phụ kiện,Phụ kiện,Wind Amulet,Bùa Gió,風のアミュレット,Equip effect: Reduces wind damage.,Hiệu ứng trang bị: Giảm sát thương hệ Gió.,装備効果：風ダメージ減少,GameTextEN::TX_NA_ITM_EQP_ACS_540_Text,ITM_EQP_ACS_540,ACCESSORY,0,0,0,0,0,0,0,0,0,0,0,6400,1280,None
+Rìu,Rìu,,,,,,,GameTextEN::TX_NA_ITM_EQP_AXE_320_Text,ITM_EQP_AXE_320,AXE,0,0,0,135,0,0,0,0,0,0,-36,23000,1150,AXE_8220
+Rìu,Rìu,,,,,,,GameTextEN::TX_NA_ITM_EQP_AXE_440_Text,ITM_EQP_AXE_440,AXE,0,0,0,25,0,0,0,0,0,-6,0,2000,100,AXE_8218
+Rìu,Rìu,,,,,,,GameTextEN::TX_NA_ITM_EQP_AXE_450_Text,ITM_EQP_AXE_450,AXE,0,0,0,71,0,0,0,0,0,-16,0,10000,500,AXE_8218
+Rìu,Rìu,,,,,,,GameTextEN::TX_NA_ITM_EQP_AXE_460_Text,ITM_EQP_AXE_460,AXE,0,0,0,205,0,0,0,0,0,-55,0,35000,1750,AXE_8218
+Rìu,Rìu,,,,,,,GameTextEN::TX_NA_ITM_EQP_AXE_470_Text,ITM_EQP_AXE_470,AXE,0,0,0,322,0,0,0,0,0,-86,0,55000,2750,AXE_8218
+Rìu,Rìu,,,,,,,GameTextEN::TX_NA_ITM_EQP_AXE_480_Text,ITM_EQP_AXE_480,AXE,0,0,0,117,0,0,0,0,0,0,-31,20000,1000,AXE_8220
+Rìu,Rìu,Axe of Avarice,Rìu Tham Lam,強欲の戦斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_300_Text,ITM_EQP_AXE_300,AXE,0,0,0,107,20,0,20,0,0,0,0,20000,4000,AXE_8215
+Rìu,Rìu,Axe of the Conqueror,Rìu Chinh Phục,覇者の大斧,Attack effect: Slim chance to blind target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu bị mù.,攻撃効果：まれに対象へ暗闇を付与,GameTextEN::TX_NA_ITM_EQP_AXE_220_Text,ITM_EQP_AXE_220,AXE,0,0,0,306,0,0,0,0,0,90,0,57000,11400,AXE_8209
+Rìu,Rìu,Battle Hatchet,Rìu Chiến,バトルハチェット,,,,GameTextEN::TX_NA_ITM_EQP_AXE_080_Text,ITM_EQP_AXE_080,AXE,0,0,0,59,0,0,0,0,0,0,14,8000,1600,AXE_8204
+Rìu,Rìu,Battle-Tested Axe,Rìu Thử Lửa,歴戦の斧,Equip effect: Raises potency of lightning- and ice-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Sét và Băng.,装備効果：雷/氷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_AXE_290_Text,ITM_EQP_AXE_290,AXE,0,0,0,400,0,250,0,0,0,0,0,100000,20000,AXE_8203
+Rìu,Rìu,Beastling's Hatchet,Rìu Người Thú,獣人のハチェット,,,,GameTextEN::TX_NA_ITM_EQP_AXE_370_Text,ITM_EQP_AXE_370,AXE,0,0,0,23,0,0,0,0,0,0,5,2000,400,AXE_8204
+Rìu,Rìu,Bone Cleaver,Rìu Xương,巨骨の斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_100_Text,ITM_EQP_AXE_100,AXE,0,0,0,128,0,0,0,-60,0,0,0,25000,5000,AXE_8207
+Rìu,Rìu,Cleaver of Destruction,Rìu Hủy Diệt,破壊の戦斧,Attack effect: Slim chance to reduce target's physical defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Vật Lý của mục tiêu.,攻撃効果：まれに対象の物防を減少,GameTextEN::TX_NA_ITM_EQP_AXE_170_Text,ITM_EQP_AXE_170,AXE,0,0,0,304,0,0,0,91,0,0,0,57000,11400,AXE_8215
+Rìu,Rìu,Contaminated Iron Ingot,Thỏi Sắt Nhiễm Bẩn,汚染された鉄塊,Attack effect: Slim chance to poison target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu trúng độc.,攻撃効果：まれに対象へ毒を付与,GameTextEN::TX_NA_ITM_EQP_AXE_410_Text,ITM_EQP_AXE_410,AXE,0,0,0,289,-60,0,0,0,0,0,0,65000,13000,AXE_8208
+Rìu,Rìu,Dark Slasher,Hắc Trảm,ダークスラッシャー,Equip effect: Raises potency of dark-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Bóng Tối.,装備効果：闇属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_AXE_260_Text,ITM_EQP_AXE_260,AXE,0,0,0,197,0,0,0,0,0,58,0,37000,7400,AXE_8211
+Rìu,Rìu,Demolition Axe,Rìu Phá Hủy,解体用の斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_020_Text,ITM_EQP_AXE_020,AXE,0,0,0,6,0,0,0,0,0,0,0,200,40,AXE_8200
+Rìu,Rìu,Double Tomahawk,Song Phủ,ダブルトマホーク,Attack effect: Deal 1 additional attack.,Hiệu ứng tấn công: Đánh thêm 1 lần.,攻撃効果：たたかう回数を＋１する,GameTextEN::TX_NA_ITM_EQP_AXE_270_Text,ITM_EQP_AXE_270,AXE,0,0,0,230,0,264,0,0,0,0,0,60000,12000,AXE_8206
+Rìu,Rìu,Flayer's Admonishment,Lời Răn Của Kẻ Lột Da,皮剥ぎ斧・戒,Attack effect: Recover HP equivalent to 25% of the damage dealt.,Hiệu ứng tấn công: Hồi HP bằng 25% sát thương gây ra.,"攻撃効果：与えたダメージの２５％の
+HPを回復する",GameTextEN::TX_NA_ITM_EQP_AXE_430_Text,ITM_EQP_AXE_430,AXE,0,0,0,323,0,0,0,0,0,0,0,60000,12000,AXE_8204
+Rìu,Rìu,Forbidden Axe,Rìu Cấm,禁断の斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_280_Text,ITM_EQP_AXE_280,AXE,0,0,0,324,0,0,0,80,0,-120,0,80000,16000,AXE_8213
+Rìu,Rìu,Frontier Axe,Rìu Biên Cương,フロンティアスピリット,Attack effect: Slim chance to reduce target's physical attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Vật Lý của mục tiêu.,攻撃効果：まれに対象の物攻を減少,GameTextEN::TX_NA_ITM_EQP_AXE_200_Text,ITM_EQP_AXE_200,AXE,0,0,0,290,0,0,0,0,0,0,0,55000,11000,AXE_8217
+Rìu,Rìu,Frost Axe,Rìu Băng Giá,フロストアクス,Equip effect: Raises potency of ice-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Băng.,装備効果：氷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_AXE_230_Text,ITM_EQP_AXE_230,AXE,0,0,0,110,0,0,0,0,0,0,30,20000,4000,AXE_8212
+Rìu,Rìu,Grand Cleaver,Đại Phủ,グランドスラッシャー,,,,GameTextEN::TX_NA_ITM_EQP_AXE_120_Text,ITM_EQP_AXE_120,AXE,0,0,0,186,0,0,0,0,0,55,0,35000,7000,AXE_8201
+Rìu,Rìu,Guard's Great Axe,Đại Rìu Lính Gác,衛兵の大斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_070_Text,ITM_EQP_AXE_070,AXE,0,0,0,54,0,0,0,0,0,13,0,7000,1400,AXE_8201
+Rìu,Rìu,Guardian's Axe,Rìu Hộ Vệ,ガーディアンアクス,,,,GameTextEN::TX_NA_ITM_EQP_AXE_140_Text,ITM_EQP_AXE_140,AXE,0,0,0,123,0,0,0,36,0,0,0,23000,4600,AXE_8200
+Rìu,Rìu,Guardian's Great Axe,Đại Rìu Hộ Vệ,守護者の巨斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_360_Text,ITM_EQP_AXE_360,AXE,0,0,0,204,0,0,0,-60,0,55,0,35000,7000,AXE_8202
+Rìu,Rìu,Guillotine's Blade,Lưỡi Đao Đoạt Mạng,ギロチンカッター,,,,GameTextEN::TX_NA_ITM_EQP_AXE_180_Text,ITM_EQP_AXE_180,AXE,0,0,0,119,0,0,0,20,0,20,0,24000,4800,AXE_8200
+Rìu,Rìu,Handaxe,Rìu Tay,ハンドアクス,,,,GameTextEN::TX_NA_ITM_EQP_AXE_040_Text,ITM_EQP_AXE_040,AXE,0,0,0,12,0,0,0,0,0,0,0,800,160,AXE_8204
+Rìu,Rìu,Helmcleaver,Rìu Chẻ Mũ,兜割りの斧,Attack effect: Slim chance to reduce target's physical defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Vật Lý của mục tiêu.,攻撃効果：まれに対象の物防を減少,GameTextEN::TX_NA_ITM_EQP_AXE_210_Text,ITM_EQP_AXE_210,AXE,0,0,0,71,0,0,0,-45,0,0,0,9000,1800,AXE_8210
+Rìu,Rìu,Hero's Axe,Rìu Anh Hùng,英雄の斧,Equip effect: Raises potency of lightning-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Sét.,装備効果：雷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_AXE_420_Text,ITM_EQP_AXE_420,AXE,0,0,0,340,0,0,0,0,0,102,0,65000,13000,AXE_8209
+Rìu,Rìu,Icy Axe,Rìu Băng Giá,氷装の斧,Equip effect: Raises potency of ice-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Băng.,装備効果：氷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_AXE_350_Text,ITM_EQP_AXE_350,AXE,0,0,0,295,0,198,0,0,0,0,0,55000,11000,AXE_8212
+Rìu,Rìu,Imperial Axe,Rìu Đế Chế,インペリアルアクス,,,,GameTextEN::TX_NA_ITM_EQP_AXE_190_Text,ITM_EQP_AXE_190,AXE,0,0,0,293,0,0,0,89,0,0,0,55000,11000,AXE_8200
+Rìu,Rìu,Iron Axe,Rìu Sắt,アイアンアクス,,,,GameTextEN::TX_NA_ITM_EQP_AXE_060_Text,ITM_EQP_AXE_060,AXE,0,0,0,48,0,0,0,11,0,0,0,7000,1400,AXE_8200
+Rìu,Rìu,Lionheart's Axe,Rìu Sư Tâm,勇王の斧,Attack effect: Raises max HP during battle.,Hiệu ứng tấn công: Tăng HP tối đa trong trận chiến.,"攻撃効果：バトル中の
+最大HPが増加する",GameTextEN::TX_NA_ITM_EQP_AXE_990_Text,ITM_EQP_AXE_990,AXE,0,0,0,320,0,0,0,0,0,0,0,150000,100000,AXE_8214
+Rìu,Rìu,Lost Tribe's Axe,Phủ Tộc Thất Lạc,忘れられた種族の斧,Attack effect: Slim chance to confuse target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu lú lẫn.,攻撃効果：まれに対象へ混乱を付与,GameTextEN::TX_NA_ITM_EQP_AXE_490_Text,ITM_EQP_AXE_490,AXE,0,0,0,381,0,0,0,0,0,-102,0,65000,13000,AXE_8218
+Rìu,Rìu,Makeshift Axe,Rìu Chắp Vá,ただの斧,"It's not much of an axe,
+but it'll have to do.","Rìu này chẳng ra gì,
+nhưng đành dùng tạm vậy.",なんの変哲も無い斧,GameTextEN::TX_NA_ITM_EQP_AXE_010_Text,ITM_EQP_AXE_010,AXE,0,0,0,0,0,0,0,0,0,0,0,0,0,AXE_8200
+Rìu,Rìu,Pirate's Axe,Rìu Hải Tặc,海賊の大斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_150_Text,ITM_EQP_AXE_150,AXE,0,0,0,195,0,0,0,0,0,57,0,37000,7400,AXE_8201
+Rìu,Rìu,Platinum Hatchet,Rìu Bạch Kim,プラチナハチェット,,,,GameTextEN::TX_NA_ITM_EQP_AXE_160_Text,ITM_EQP_AXE_160,AXE,0,0,0,194,0,0,0,0,0,0,58,37000,7400,AXE_8204
+Rìu,Rìu,Poisoned Hatchet,Rìu Tẩm Độc,ポイズンハチェット,Attack effect: Slim chance to poison target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu trúng độc.,攻撃効果：まれに対象へ毒を付与,GameTextEN::TX_NA_ITM_EQP_AXE_240_Text,ITM_EQP_AXE_240,AXE,0,0,0,61,0,55,0,0,0,0,0,10000,2000,AXE_8205
+Rìu,Rìu,Quartz Axe,Rìu Thạch Anh,クォーツアクス,Attack effect: Slim chance to reduce target's elemental attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属攻を減少,GameTextEN::TX_NA_ITM_EQP_AXE_250_Text,ITM_EQP_AXE_250,AXE,0,0,0,187,0,154,0,0,0,0,0,35000,7000,AXE_8219
+Rìu,Rìu,Reaper's Sickle,Lưỡi Hái Tử Thần,死を招く鎌,Attack effect: Slim chance to instantly kill target.,Hiệu ứng tấn công: Có xác suất nhỏ hạ gục mục tiêu ngay lập tức.,攻撃効果：まれに対象を即死させる,GameTextEN::TX_NA_ITM_EQP_AXE_330_Text,ITM_EQP_AXE_330,AXE,0,0,0,366,0,0,0,-66,0,0,0,60000,12000,AXE_8216
+Rìu,Rìu,Rock Cleaver,Rìu Chẻ Đá,ロックスラッシャー,,,,GameTextEN::TX_NA_ITM_EQP_AXE_110_Text,ITM_EQP_AXE_110,AXE,0,0,0,108,0,0,0,0,0,31,0,20000,4000,AXE_8201
+Rìu,Rìu,Rotted Axe,Rìu Mục Nát,朽ちた斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_400_Text,ITM_EQP_AXE_400,AXE,0,0,0,7,0,0,0,0,0,0,0,100,20,AXE_8208
+Rìu,Rìu,Royal Guard's Hatchet,Rìu Cận Vệ Hoàng Gia,ロイヤルガードハチェット,,,,GameTextEN::TX_NA_ITM_EQP_AXE_390_Text,ITM_EQP_AXE_390,AXE,0,0,0,319,0,0,0,0,0,0,97,60000,12000,AXE_8204
+Rìu,Rìu,Silver Hatchet,Rìu Bạc,シルバーハチェット,,,,GameTextEN::TX_NA_ITM_EQP_AXE_130_Text,ITM_EQP_AXE_130,AXE,0,0,0,112,0,0,0,0,0,0,32,22000,4400,AXE_8204
+Rìu,Rìu,Small Axe,Rìu Nhỏ,小ぶりな斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_030_Text,ITM_EQP_AXE_030,AXE,0,0,0,6,0,0,0,0,0,0,0,200,40,AXE_8204
+Rìu,Rìu,Snake Fang,Nanh Rắn,蛇の大牙,,,,GameTextEN::TX_NA_ITM_EQP_AXE_032_Text,ITM_EQP_AXE_032,AXE,0,0,0,6,0,0,0,0,0,0,0,200,40,AXE_8200_GST
+Rìu,Rìu,Strong Axe,Rìu Cường Lực,ストロングアクス,,,,GameTextEN::TX_NA_ITM_EQP_AXE_090_Text,ITM_EQP_AXE_090,AXE,0,0,0,70,0,0,0,18,0,0,0,11000,2200,AXE_8200
+Rìu,Rìu,Stupefying Stone Axe,Choáng Thạch Phủ,戦乱の石斧,Attack effect: Slim chance to confuse target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu lú lẫn.,攻撃効果：まれに対象へ混乱を付与,GameTextEN::TX_NA_ITM_EQP_AXE_340_Text,ITM_EQP_AXE_340,AXE,0,0,0,297,0,0,0,0,0,0,91,55000,11000,AXE_8220
+Rìu,Rìu,War Axe,Rìu Chiến,ウォーアクス,,,,GameTextEN::TX_NA_ITM_EQP_AXE_380_Text,ITM_EQP_AXE_380,AXE,0,0,0,26,0,0,0,6,0,0,0,2600,520,AXE_8200
+Rìu,Rìu,Woodcutter's Axe,Rìu Tiều Phu,木こりの斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_031_Text,ITM_EQP_AXE_031,AXE,0,0,0,10,0,0,0,0,0,0,0,200,40,AXE_8200_GST
+Rìu,Rìu,Woodcutter's Great Axe,Đại Phủ Tiều Phu,木こりの大斧,,,,GameTextEN::TX_NA_ITM_EQP_AXE_050_Text,ITM_EQP_AXE_050,AXE,0,0,0,24,0,0,0,0,0,5,0,2100,420,AXE_8201
+Thương,Thương,,,,,,,GameTextEN::TX_NA_ITM_EQP_LNS_340_Text,ITM_EQP_LNS_340,LANCE,0,0,0,211,0,0,0,0,0,-58,0,37000,1850,SPR_8110
+Thương,Thương,,,,,,,GameTextEN::TX_NA_ITM_EQP_LNS_440_Text,ITM_EQP_LNS_440,LANCE,0,0,0,24,0,0,0,0,-6,0,0,2000,100,SPR_8120
+Thương,Thương,,,,,,,GameTextEN::TX_NA_ITM_EQP_LNS_450_Text,ITM_EQP_LNS_450,LANCE,0,0,0,70,0,0,0,0,-16,0,0,10000,500,SPR_8120
+Thương,Thương,,,,,,,GameTextEN::TX_NA_ITM_EQP_LNS_460_Text,ITM_EQP_LNS_460,LANCE,0,0,0,200,0,0,0,0,-55,0,0,35000,1750,SPR_8120
+Thương,Thương,,,,,,,GameTextEN::TX_NA_ITM_EQP_LNS_470_Text,ITM_EQP_LNS_470,LANCE,0,0,0,314,0,0,0,0,-86,0,0,55000,2750,SPR_8120
+Thương,Thương,,,,,,,GameTextEN::TX_NA_ITM_EQP_LNS_480_Text,ITM_EQP_LNS_480,LANCE,0,0,0,69,0,0,0,0,0,0,-16,10000,500,SPR_8111
+Thương,Thương,Battle-Tested Spear,Giáo Thử Lửa,歴戦の槍,Attack effect: Slim chance to blind target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu bị mù.,攻撃効果：まれに対象へ暗闇を付与,GameTextEN::TX_NA_ITM_EQP_LNS_290_Text,ITM_EQP_LNS_290,LANCE,0,0,0,390,0,0,0,0,0,120,0,100000,20000,SPR_8105
+Thương,Thương,Bone Spear,Giáo Xương,ボーンスピア,,,,GameTextEN::TX_NA_ITM_EQP_LNS_060_Text,ITM_EQP_LNS_060,LANCE,0,0,0,28,0,0,0,-18,0,0,0,2300,460,SPR_8110
+Thương,Thương,Clan Mei Spear,Giáo Gia Tộc Mei,メイ家の槍,Attack effect: Slim chance to reduce target's speed.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tốc Độ của mục tiêu.,攻撃効果：まれに対象の行動速度減少,GameTextEN::TX_NA_ITM_EQP_LNS_410_Text,ITM_EQP_LNS_410,LANCE,0,0,0,187,0,0,0,0,0,0,0,35000,7000,SPR_8100
+Thương,Thương,Crimson Spear,Giáo Đỏ Thẫm,朱染めの英槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_190_Text,ITM_EQP_LNS_190,LANCE,0,0,0,288,0,0,0,0,0,90,0,55000,11000,SPR_8101
+Thương,Thương,Desert Spear,Giáo Sa Mạc,風砂の槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_020_Text,ITM_EQP_LNS_020,LANCE,0,0,0,5,0,0,0,0,0,0,0,200,40,SPR_8101
+Thương,Thương,Distinguished Lance,Danh Thương,名士の槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_010_GST_Text,ITM_EQP_LNS_010_GST,LANCE,0,0,0,5,0,0,0,0,0,0,0,200,40,SPR_8104_GST
+Thương,Thương,Fire Dragon's Glaive,Kích Hỏa Long,炎竜の矛,Equip effect: Raises potency of fire-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Lửa.,装備効果：火属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_LNS_350_Text,ITM_EQP_LNS_350,LANCE,0,0,0,318,0,0,0,0,95,0,0,60000,12000,SPR_8103
+Thương,Thương,Forbidden Spear,Giáo Cấm,禁断の槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_280_Text,ITM_EQP_LNS_280,LANCE,0,0,0,320,0,0,0,0,50,0,-120,80000,16000,SPR_8116
+Thương,Thương,Fuscina,Tam Xoa Kích,フュスキーナ,,,,GameTextEN::TX_NA_ITM_EQP_LNS_080_Text,ITM_EQP_LNS_080,LANCE,0,0,0,106,0,0,0,20,0,20,0,21000,4200,SPR_8102
+Thương,Thương,Gluttonous Glaive,Thôn Phệ Kích,食いしん坊の槍,Attack effect: Slim chance to reduce target's evasion.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Né Tránh của mục tiêu.,攻撃効果：まれに対象の回避を減少,GameTextEN::TX_NA_ITM_EQP_LNS_330_Text,ITM_EQP_LNS_330,LANCE,0,0,0,69,0,0,0,-40,0,0,0,9000,1800,SPR_8119
+Thương,Thương,Gravity Lance,Trọng Lực Thương,グラビティランス,,,,GameTextEN::TX_NA_ITM_EQP_LNS_180_Text,ITM_EQP_LNS_180,LANCE,0,0,0,375,0,0,0,-75,-90,0,0,60000,12000,SPR_8114
+Thương,Thương,Handmade Spear,Thương Thủ Công,お手製の槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_031_Text,ITM_EQP_LNS_031,LANCE,0,0,0,5,0,0,0,0,0,0,0,200,40,SPR_8100
+Thương,Thương,Heavy Bone Spear,Giáo Xương Nặng,ヘヴィボーンスピア,,,,GameTextEN::TX_NA_ITM_EQP_LNS_120_Text,ITM_EQP_LNS_120,LANCE,0,0,0,125,0,0,0,-60,0,0,0,22000,4400,SPR_8110
+Thương,Thương,Hyperion Spear,Giáo Hyperion,ハイペリオンスピア,,,,GameTextEN::TX_NA_ITM_EQP_LNS_160_Text,ITM_EQP_LNS_160,LANCE,0,0,0,286,0,0,0,0,0,0,88,55000,11000,SPR_8100
+Thương,Thương,Imitation Spear,Giáo Giả,模擬槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_021_Text,ITM_EQP_LNS_021,LANCE,0,0,0,10,0,0,0,0,0,0,0,200,40,SPR_8100
+Thương,Thương,Lance,Thương,ランス,,,,GameTextEN::TX_NA_ITM_EQP_LNS_390_Text,ITM_EQP_LNS_390,LANCE,0,0,0,24,0,0,0,0,0,6,0,2600,520,SPR_8113
+Thương,Thương,Lightning Glaive,Kích Tia Chớp,ライトニンググレイヴ,,,,GameTextEN::TX_NA_ITM_EQP_LNS_140_Text,ITM_EQP_LNS_140,LANCE,0,0,0,182,0,0,0,0,56,0,0,35000,7000,SPR_8108
+Thương,Thương,Long Spear,Trường Giáo,ロングスピア,,,,GameTextEN::TX_NA_ITM_EQP_LNS_050_Text,ITM_EQP_LNS_050,LANCE,0,0,0,22,0,0,0,0,0,0,5,2200,440,SPR_8100
+Thương,Thương,Lost Tribe's Spear,Thương Tộc Thất Lạc,忘れられた種族の槍,Attack effect: Slim chance to put target to sleep.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu rơi vào trạng thái ngủ.,攻撃効果：まれに対象へ睡眠を付与,GameTextEN::TX_NA_ITM_EQP_LNS_490_Text,ITM_EQP_LNS_490,LANCE,0,0,0,386,0,0,0,0,0,0,-101,65000,13000,SPR_8120
+Thương,Thương,Makeshift Spear,Thương Chắp Vá,ただの槍,"It's not much of a spear,
+but it'll have to do.","Giáo này chẳng ra gì,
+nhưng đành dùng tạm vậy.",なんの変哲も無い槍,GameTextEN::TX_NA_ITM_EQP_LNS_010_Text,ITM_EQP_LNS_010,LANCE,0,0,0,0,0,0,0,0,0,0,0,0,0,SPR_8100
+Thương,Thương,Master Harpoon,Lao Tuyệt Nghệ,大物捕りのモリ,,,,GameTextEN::TX_NA_ITM_EQP_LNS_380_Text,ITM_EQP_LNS_380,LANCE,0,0,0,103,0,0,0,31,0,0,0,20000,4000,SPR_8102
+Thương,Thương,Matching Trident,Đinh Ba Đồng Bộ,お揃いのトライデント,Attack effect: Slim chance to reduce target's evasion.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Né Tránh của mục tiêu.,攻撃効果：まれに対象の回避を減少,GameTextEN::TX_NA_ITM_EQP_LNS_430_Text,ITM_EQP_LNS_430,LANCE,0,0,0,114,0,0,0,0,0,35,0,22000,4400,SPR_8112
+Thương,Thương,Memorial Harpoon,Lao Tưởng Niệm,形見のモリ,Attack effect: Slim chance to reduce target's speed.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tốc Độ của mục tiêu.,攻撃効果：まれに対象の行動速度減少,GameTextEN::TX_NA_ITM_EQP_LNS_400_Text,ITM_EQP_LNS_400,LANCE,0,0,0,38,0,0,0,0,0,0,0,2200,440,SPR_8102
+Thương,Thương,Monster Bone Spear,Giáo Xương Quái Vật,マンモスボーンスピア,,,,GameTextEN::TX_NA_ITM_EQP_LNS_170_Text,ITM_EQP_LNS_170,LANCE,0,0,0,315,0,0,0,-65,0,0,0,55000,11000,SPR_8110
+Thương,Thương,Nightmare Glaive,Ác Mộng Kích,悪夢の槍,Attack effect: Slim chance to put target to sleep.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu rơi vào trạng thái ngủ.,攻撃効果：まれに対象へ睡眠を付与,GameTextEN::TX_NA_ITM_EQP_LNS_230_Text,ITM_EQP_LNS_230,LANCE,0,0,0,210,0,0,0,-60,0,0,0,36000,7200,SPR_8106
+Thương,Thương,Obsidian Lance,Hắc Diệu Thương,黒塗りの豪槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_150_Text,ITM_EQP_LNS_150,LANCE,0,0,0,311,0,0,0,0,0,97,0,60000,12000,SPR_8106
+Thương,Thương,Paladin's Lance,Thương Hiệp Sĩ Thánh,パラディンランス,,,,GameTextEN::TX_NA_ITM_EQP_LNS_130_Text,ITM_EQP_LNS_130,LANCE,0,0,0,184,0,0,0,0,0,55,0,35000,7000,SPR_8113
+Thương,Thương,Rare Metal Glaive,Kích Kim Loại Hiếm,レアメタルグレイヴ,,,,GameTextEN::TX_NA_ITM_EQP_LNS_200_Text,ITM_EQP_LNS_200,LANCE,0,0,0,284,0,0,0,0,82,0,0,54000,10800,SPR_8108
+Thương,Thương,Sandstorm Spear,Giáo Bão Cát,砂塵の槍,,,,GameTextEN::TX_NA_ITM_EQP_LNS_070_Text,ITM_EQP_LNS_070,LANCE,0,0,0,58,0,0,0,0,0,0,17,10000,2000,SPR_8101
+Thương,Thương,Scorched Bone Spear,Thương Xương Cháy,焼け焦げた骨槍,Equip effect: Raises potency of fire-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Lửa.,装備効果：火属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_LNS_220_Text,ITM_EQP_LNS_220,LANCE,0,0,0,132,0,0,0,-60,0,0,0,23000,4600,SPR_8111
+Thương,Thương,Sea God's Spear,Hải Thần Thương,海神の槍,Attack effect: Deal 1 additional attack.,Hiệu ứng tấn công: Đánh thêm 1 lần.,攻撃効果：たたかう回数を＋１する,GameTextEN::TX_NA_ITM_EQP_LNS_250_Text,ITM_EQP_LNS_250,LANCE,0,0,0,224,0,0,0,91,0,0,0,58000,11600,SPR_8112
+Thương,Thương,Seraphim Spear,Thiên Sứ Thương,セラフィムスピア,Attack effect: Slim chance to reduce target's elemental attack.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tấn Công Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属攻を減少,GameTextEN::TX_NA_ITM_EQP_LNS_240_Text,ITM_EQP_LNS_240,LANCE,0,0,0,296,0,0,0,0,0,0,96,57000,11400,SPR_8107
+Thương,Thương,Slashing Glaive,Kích Trảm,スラッシュグレイヴ,,,,GameTextEN::TX_NA_ITM_EQP_LNS_100_Text,ITM_EQP_LNS_100,LANCE,0,0,0,68,0,0,0,0,18,0,0,11000,2200,SPR_8108
+Thương,Thương,Soldier's Spear,Giáo Lính,ソルジャースピア,,,,GameTextEN::TX_NA_ITM_EQP_LNS_110_Text,ITM_EQP_LNS_110,LANCE,0,0,0,111,0,0,0,0,0,0,34,22000,4400,SPR_8100
+Thương,Thương,Spear,Giáo,スピア,,,,GameTextEN::TX_NA_ITM_EQP_LNS_040_Text,ITM_EQP_LNS_040,LANCE,0,0,0,11,0,0,0,0,0,0,0,800,160,SPR_8100
+Thương,Thương,Spear of Sleep,Giáo Gây Ngủ,まどろみの槍,Attack effect: Slim chance to put target to sleep.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu rơi vào trạng thái ngủ.,攻撃効果：まれに対象へ睡眠を付与,GameTextEN::TX_NA_ITM_EQP_LNS_210_Text,ITM_EQP_LNS_210,LANCE,0,0,0,57,0,57,0,0,0,0,0,10000,2000,SPR_8121
+Thương,Thương,Spear of Strength,Giáo Sức Mạnh,最強を謳う矛,Attack effect: Guaranteed critical hit.,Hiệu ứng tấn công: Luôn gây chí mạng.,攻撃効果：当たれば必ずクリティカル,GameTextEN::TX_NA_ITM_EQP_LNS_270_Text,ITM_EQP_LNS_270,LANCE,0,0,0,338,0,0,0,0,0,0,0,55000,11000,SPR_8103
+Thương,Thương,Steel Lance,Thương Thép,スティールランス,,,,GameTextEN::TX_NA_ITM_EQP_LNS_090_Text,ITM_EQP_LNS_090,LANCE,0,0,0,63,0,0,0,0,0,16,0,10000,2000,SPR_8113
+Thương,Thương,Thunder's Roar,Lôi Hống,名槍：雷鳴,Attack effect: Deal additional lightning damage to target.,Hiệu ứng tấn công: Gây thêm sát thương hệ Sét lên mục tiêu.,攻撃効果：対象に雷の追撃が発生,GameTextEN::TX_NA_ITM_EQP_LNS_300_Text,ITM_EQP_LNS_300,LANCE,0,0,0,312,0,230,0,0,0,0,0,80000,16000,SPR_8104
+Thương,Thương,Tornado Glaive,Kích Lốc Xoáy,トルネードグレイヴ,Equip effect: Raises potency of wind-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Gió.,装備効果：風属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_LNS_360_Text,ITM_EQP_LNS_360,LANCE,0,0,0,337,0,0,0,0,105,0,0,65000,13000,SPR_8109
+Thương,Thương,Vanguard's Javelin,Lao Tiên Phong,先陣のジャベリン,,,,GameTextEN::TX_NA_ITM_EQP_LNS_420_Text,ITM_EQP_LNS_420,LANCE,0,0,0,71,0,0,0,0,0,0,41,12000,2400,SPR_8100
+Thương,Thương,Venom Lance,Thương Nọc Độc,ヴェノムランス,Attack effect: Slim chance to poison target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu trúng độc.,攻撃効果：まれに対象へ毒を付与,GameTextEN::TX_NA_ITM_EQP_LNS_260_Text,ITM_EQP_LNS_260,LANCE,0,0,0,292,0,0,0,0,0,89,0,57000,11400,SPR_8115
+Thương,Thương,War Glaive,Chiến Kích,ウォーグレイヴ,,,,GameTextEN::TX_NA_ITM_EQP_LNS_370_Text,ITM_EQP_LNS_370,LANCE,0,0,0,49,0,0,0,0,11,0,0,7500,1500,SPR_8108
+Thương,Thương,Warlord's Spear,Bá Vương Thương,戦王の槍,Attack effect: Recover BP when defeating an enemy.,Hiệu ứng tấn công: Hồi BP khi hạ gục kẻ địch.,攻撃効果：対象を倒すたびにBPを回復,GameTextEN::TX_NA_ITM_EQP_LNS_990_Text,ITM_EQP_LNS_990,LANCE,0,0,0,310,0,0,0,0,0,0,0,150000,100000,SPR_8117
+Thương,Thương,Well-Worn Pole,Trường Côn Cũ,使い込まれた六尺棒,Attack effect: Slim chance to reduce target's elemental defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属防を減少,GameTextEN::TX_NA_ITM_EQP_LNS_310_Text,ITM_EQP_LNS_310,LANCE,0,0,0,289,0,330,0,0,0,0,0,60000,12000,SPR_8118
+Trượng,Trượng,,,,,,,GameTextEN::TX_NA_ITM_EQP_ROD_330_Text,ITM_EQP_ROD_330,ROD,0,0,0,12,-6,25,0,0,0,0,0,2000,100,WND_8419
+Trượng,Trượng,,,,,,,GameTextEN::TX_NA_ITM_EQP_ROD_440_Text,ITM_EQP_ROD_440,ROD,0,0,0,35,-16,70,0,0,0,0,0,10000,500,WND_8419
+Trượng,Trượng,,,,,,,GameTextEN::TX_NA_ITM_EQP_ROD_450_Text,ITM_EQP_ROD_450,ROD,0,0,0,102,-55,205,0,0,0,0,0,35000,1750,WND_8419
+Trượng,Trượng,,,,,,,GameTextEN::TX_NA_ITM_EQP_ROD_470_Text,ITM_EQP_ROD_470,ROD,0,0,0,216,0,216,0,0,-58,0,0,37000,1850,WND_8412
+Trượng,Trượng,,,,,,,GameTextEN::TX_NA_ITM_EQP_ROD_480_Text,ITM_EQP_ROD_480,ROD,0,0,0,256,0,0,0,0,0,0,-86,55000,2750,WND_8402
+Trượng,Trượng,Abyssal Rod,Trượng Vực Thẳm,深淵のロッド,Equip effect: Raises potency of dark-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Bóng Tối.,装備効果：闇属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_ROD_250_Text,ITM_EQP_ROD_250,ROD,0,0,0,152,0,304,0,0,0,0,0,57000,11400,WND_8410
+Trượng,Trượng,Aegis Mace,Chùy Aegis,イージスメイス,,,,GameTextEN::TX_NA_ITM_EQP_ROD_130_Text,ITM_EQP_ROD_130,ROD,0,0,0,143,0,85,0,0,0,60,0,36000,7200,WND_8405
+Trượng,Trượng,Ancient Staff,Trượng Cổ Đại,古代の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_200_Text,ITM_EQP_ROD_200,ROD,0,0,0,154,0,294,0,0,0,0,0,54000,10800,WND_8400
+Trượng,Trượng,Battle-Tested Staff,Trượng Thử Lửa,歴戦の杖,Attack effect: Slim chance to reduce target's speed.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tốc Độ của mục tiêu.,攻撃効果：まれに対象の行動速度減少,GameTextEN::TX_NA_ITM_EQP_ROD_280_Text,ITM_EQP_ROD_280,ROD,0,0,0,200,0,400,0,0,0,0,0,100000,20000,WND_8403
+Trượng,Trượng,Bellowing Baton,Trượng Gầm Vang,怒号の指揮棒,Equip effect: Raises potency of lightning-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Sét.,装備効果：雷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_ROD_490_Text,ITM_EQP_ROD_490,ROD,0,0,0,160,0,322,0,0,0,0,0,60000,12000,WND_8422
+Trượng,Trượng,Charm Rod,Trượng Bùa Chú,まじないの杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_040_Text,ITM_EQP_ROD_040,ROD,0,0,0,6,0,11,0,0,0,0,0,800,160,WND_8400
+Trượng,Trượng,Chef's Ladle,Muôi Bếp,料理人のおたま,Attack effect: Slim chance to confuse target.,Hiệu ứng tấn công: Có xác suất nhỏ khiến mục tiêu lú lẫn.,攻撃効果：まれに対象へ混乱を付与,GameTextEN::TX_NA_ITM_EQP_ROD_320_Text,ITM_EQP_ROD_320,ROD,0,0,0,146,0,194,0,0,0,0,0,36000,7200,WND_8420
+Trượng,Trượng,Conjurer's Staff,Trượng Triệu Linh,祈祷の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_400_Text,ITM_EQP_ROD_400,ROD,0,0,0,36,0,77,0,0,0,0,0,13000,2600,WND_8400
+Trượng,Trượng,Diamond Rod,Trượng Kim Cương,ダイヤモンドロッド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_190_Text,ITM_EQP_ROD_190,ROD,0,0,0,179,0,325,0,0,0,0,0,70000,14000,WND_8401
+Trượng,Trượng,Flail,Chùy Có Dây,フレイル,,,,GameTextEN::TX_NA_ITM_EQP_ROD_110_Text,ITM_EQP_ROD_110,ROD,0,0,0,124,0,0,0,-50,0,0,0,22000,4400,WND_8418
+Trượng,Trượng,Flamebringer's Staff,Trượng Hỏa Sứ,聖火神の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_010_GST_Text,ITM_EQP_ROD_010_GST,ROD,0,0,0,3,0,5,0,0,0,0,0,200,40,WND_8400_GST
+Trượng,Trượng,Forbidden Staff,Trượng Cấm,禁断の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_270_Text,ITM_EQP_ROD_270,ROD,0,0,0,-210,0,342,-120,0,0,0,0,80000,16000,WND_8413
+Trượng,Trượng,Fortune Wand,Đũa Tài Lộc,フォーチュンワンド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_140_Text,ITM_EQP_ROD_140,ROD,0,0,0,92,0,185,0,0,0,0,55,33000,6600,WND_8416
+Trượng,Trượng,Giant's Club,Chùy Khổng Lồ,巨人の棍棒,Equip effect: Raises potency of physical skills.,Hiệu ứng trang bị: Tăng uy lực kỹ năng vật lý.,装備効果：物理アビリティの威力＋,GameTextEN::TX_NA_ITM_EQP_ROD_260_Text,ITM_EQP_ROD_260,ROD,0,0,0,328,0,0,0,0,0,0,0,62000,12400,WND_8402
+Trượng,Trượng,Great Sage's Staff,Trượng Đại Hiền Giả,大賢者の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_310_Text,ITM_EQP_ROD_310,ROD,0,0,0,162,0,324,0,0,0,0,108,60000,12000,WND_8404
+Trượng,Trượng,Hallowed Rod,Trượng Thánh Hóa,神聖のロッド,Equip effect: Raises potency of light-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Ánh Sáng.,装備効果：光属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_ROD_240_Text,ITM_EQP_ROD_240,ROD,0,0,0,152,0,304,0,0,0,0,0,57000,11400,WND_8401
+Trượng,Trượng,Jade Staff,Trượng Ngọc Bích,翠玉の杖,Equip effect: Raises potency of light-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Ánh Sáng.,装備効果：光属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_ROD_220_Text,ITM_EQP_ROD_220,ROD,0,0,0,58,0,116,0,0,0,0,0,21000,4200,WND_8409
+Trượng,Trượng,Lapis Rod,Trượng Lapis,ラピスロッド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_080_Text,ITM_EQP_ROD_080,ROD,0,0,0,29,0,59,14,0,0,0,0,9000,1800,WND_8401
+Trượng,Trượng,Light Wand,Đũa Phép Ánh Sáng,ライトワンド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_060_Text,ITM_EQP_ROD_060,ROD,0,0,0,27,0,54,0,0,0,0,13,8000,1600,WND_8416
+Trượng,Trượng,Lost Tribe's Staff,Trượng Tộc Thất Lạc,忘れられた種族の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_460_Text,ITM_EQP_ROD_460,ROD,0,0,0,190,-102,381,0,0,0,0,0,65000,13000,WND_8419
+Trượng,Trượng,Mace,Chùy,メイス,,,,GameTextEN::TX_NA_ITM_EQP_ROD_070_Text,ITM_EQP_ROD_070,ROD,0,0,0,43,0,21,0,0,0,13,0,8000,1600,WND_8405
+Trượng,Trượng,Mage Wand,Đũa Phép Pháp Thuật,メイジワンド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_090_Text,ITM_EQP_ROD_090,ROD,0,0,0,32,0,64,0,0,0,0,16,10000,2000,WND_8416
+Trượng,Trượng,Magic Breaker,Trượng Phá Phép,魔砕者のメイス,Attack effect: Slim chance to reduce target's elemental defense.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Phòng Thủ Nguyên Tố của mục tiêu.,攻撃効果：まれに対象の属防を減少,GameTextEN::TX_NA_ITM_EQP_ROD_230_Text,ITM_EQP_ROD_230,ROD,0,0,0,198,0,102,0,0,0,0,0,38000,7600,WND_8407
+Trượng,Trượng,Magus Wand,Trượng Đại Pháp Sư,マギアワンド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_100_Text,ITM_EQP_ROD_100,ROD,0,0,0,56,0,112,0,0,0,0,33,21000,4200,WND_8416
+Trượng,Trượng,Makeshift Staff,Trượng Chắp Vá,ただの杖,"It's not much of a staff,
+but it'll have to do.","Trượng này chẳng ra gì,
+nhưng đành dùng tạm vậy.",なんの変哲も無い杖,GameTextEN::TX_NA_ITM_EQP_ROD_010_Text,ITM_EQP_ROD_010,ROD,0,0,0,0,0,0,0,0,0,0,0,0,0,WND_8400
+Trượng,Trượng,Morning Star,Chùy Sao Mai,モーニングスター,Attack effect: Slim chance to reduce target's speed.,Hiệu ứng tấn công: Có xác suất nhỏ giảm Tốc Độ của mục tiêu.,攻撃効果：まれに対象の行動速度減少,GameTextEN::TX_NA_ITM_EQP_ROD_360_Text,ITM_EQP_ROD_360,ROD,0,0,0,190,0,0,0,0,0,55,0,35000,7000,WND_8412
+Trượng,Trượng,Oak Staff,Trượng Sồi,オークスタッフ,,,,GameTextEN::TX_NA_ITM_EQP_ROD_390_Text,ITM_EQP_ROD_390,ROD,0,0,0,53,0,105,0,0,31,0,0,19000,3800,WND_8408
+Trượng,Trượng,Pilgrim Rod,Trượng Hành Hương,巡礼者の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_350_Text,ITM_EQP_ROD_350,ROD,0,0,0,9,0,10,0,0,0,0,0,800,160,WND_8400
+Trượng,Trượng,Psychic Staff,Trượng Tâm Linh,理力の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_370_Text,ITM_EQP_ROD_370,ROD,0,0,0,152,0,214,88,0,0,0,0,36000,7200,WND_8417
+Trượng,Trượng,Quartz Rod,Trượng Thạch Anh,クォーツロッド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_160_Text,ITM_EQP_ROD_160,ROD,0,0,0,96,0,192,57,0,0,0,0,36000,7200,WND_8401
+Trượng,Trượng,Rod of Wisdom,Trượng Minh Triết,知識の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_150_Text,ITM_EQP_ROD_150,ROD,0,0,0,31,0,62,0,0,0,0,0,9000,1800,WND_8400
+Trượng,Trượng,Rough-Hewn Rod,Trượng Thô Mộc,粗削りの原石のロッド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_420_Text,ITM_EQP_ROD_420,ROD,0,0,0,177,0,315,0,0,-60,0,-60,55000,11000,WND_8410
+Trượng,Trượng,Sacred Flame Staff,Trượng Thánh Hỏa,聖火教会の霊杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_410_Text,ITM_EQP_ROD_410,ROD,0,0,0,160,0,319,94,0,0,0,0,60000,12000,WND_8416
+Trượng,Trượng,Sapphire Rod,Trượng Sapphire,サファイアロッド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_120_Text,ITM_EQP_ROD_120,ROD,0,0,0,61,0,123,36,0,0,0,0,23000,4600,WND_8401
+Trượng,Trượng,Sinner's Staff,Tội Đồ Trượng,罪人の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_340_Text,ITM_EQP_ROD_340,ROD,0,0,0,5,0,14,0,0,0,0,0,800,160,WND_8400
+Trượng,Trượng,Spiritlord's Staff,Trượng Chúa Linh Hồn,霊王の杖,Attack effect: Recover SP equivalent to 1% of the damage dealt.,Hiệu ứng tấn công: Hồi SP bằng 1% sát thương gây ra.,"攻撃効果：与えたダメージの１％の
+SPを回復する",GameTextEN::TX_NA_ITM_EQP_ROD_990_Text,ITM_EQP_ROD_990,ROD,0,0,0,160,0,320,0,0,0,0,0,150000,100000,WND_8415
+Trượng,Trượng,Staff of Carnage,Trượng Tàn Sát,修羅の錫杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_290_Text,ITM_EQP_ROD_290,ROD,0,0,0,174,0,330,0,0,102,0,0,60000,12000,WND_8414
+Trượng,Trượng,Staff of Judgment,Trượng Phán Xét,断罪の杖,,,,GameTextEN::TX_NA_ITM_EQP_ROD_030_Text,ITM_EQP_ROD_030,ROD,0,0,0,3,0,5,0,0,0,0,0,200,40,WND_8421
+Trượng,Trượng,Stick,Gậy,棒切れ,,,,GameTextEN::TX_NA_ITM_EQP_ROD_020_Text,ITM_EQP_ROD_020,ROD,0,0,0,3,0,4,0,0,0,0,0,200,40,WND_8422
+Trượng,Trượng,Stone Rod,Trượng Đá,ストーンロッド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_380_Text,ITM_EQP_ROD_380,ROD,0,0,0,11,0,24,6,0,0,0,0,2600,520,WND_8401
+Trượng,Trượng,Sunshadow Staff,Trượng Nhật Ảnh,無垢と邪気の杖,Equip effect: Raises potency of light- and dark-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Ánh Sáng và Bóng Tối.,装備効果：光/闇属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_ROD_430_Text,ITM_EQP_ROD_430,ROD,0,0,0,171,0,335,0,0,0,0,0,60000,12000,WND_8411
+Trượng,Trượng,Thunder Mace,Lôi Chùy,サンダーメイス,Equip effect: Raises potency of lightning-based attacks.,Hiệu ứng trang bị: Tăng uy lực đòn tấn công hệ Sét.,装備効果：雷属性攻撃の威力＋,GameTextEN::TX_NA_ITM_EQP_ROD_210_Text,ITM_EQP_ROD_210,ROD,0,0,0,60,0,40,0,0,0,0,0,10000,2000,WND_8406
+Trượng,Trượng,Wisdom Wand,Đũa Trí Tuệ,ウィズダムワンド,,,,GameTextEN::TX_NA_ITM_EQP_ROD_170_Text,ITM_EQP_ROD_170,ROD,0,0,0,97,0,195,0,0,0,0,59,36000,7200,WND_8416
+Trượng,Trượng,Wooden Staff,Trượng Gỗ,ウッドスタッフ,,,,GameTextEN::TX_NA_ITM_EQP_ROD_050_Text,ITM_EQP_ROD_050,ROD,0,0,0,11,0,23,0,0,5,0,0,2400,480,WND_8408
+Trượng,Trượng,Yggdrasil Staff,Trượng Yggdrasil,ユグドラシルスタッフ,,,,GameTextEN::TX_NA_ITM_EQP_ROD_180_Text,ITM_EQP_ROD_180,ROD,0,0,0,146,0,293,0,0,86,0,0,55000,11000,WND_8408
